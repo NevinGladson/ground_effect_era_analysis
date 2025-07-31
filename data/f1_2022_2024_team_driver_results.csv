@@ -1,0 +1,1360 @@
+Year,Race,TrackType,Driver,Team,GridPosition,QualifyingPosition,RacePosition,Status,TopSpeed,EstimatedOvertakes
+2022,Bahrain,Permanent,LEC,Ferrari,1.0,1.0,1.0,Finished,299.0,0.0
+2022,Bahrain,Permanent,SAI,Ferrari,3.0,3.0,2.0,Finished,301.0,1.0
+2022,Bahrain,Permanent,HAM,Mercedes,5.0,5.0,3.0,Finished,300.0,2.0
+2022,Bahrain,Permanent,RUS,Mercedes,9.0,9.0,4.0,Finished,300.0,5.0
+2022,Bahrain,Permanent,MAG,Haas F1 Team,7.0,7.0,5.0,Finished,305.0,2.0
+2022,Bahrain,Permanent,BOT,Alfa Romeo,6.0,6.0,6.0,Finished,306.0,0.0
+2022,Bahrain,Permanent,OCO,Alpine,11.0,11.0,7.0,Finished,301.0,4.0
+2022,Bahrain,Permanent,TSU,AlphaTauri,16.0,16.0,8.0,Finished,307.0,8.0
+2022,Bahrain,Permanent,ALO,Alpine,8.0,8.0,9.0,Finished,299.0,-1.0
+2022,Bahrain,Permanent,ZHO,Alfa Romeo,15.0,15.0,10.0,Finished,298.0,5.0
+2022,Bahrain,Permanent,MSC,Haas F1 Team,12.0,12.0,11.0,Finished,302.0,1.0
+2022,Bahrain,Permanent,STR,Aston Martin,19.0,19.0,12.0,Finished,292.0,7.0
+2022,Bahrain,Permanent,ALB,Williams,14.0,14.0,13.0,Finished,303.0,1.0
+2022,Bahrain,Permanent,RIC,McLaren,18.0,18.0,14.0,Finished,296.0,4.0
+2022,Bahrain,Permanent,NOR,McLaren,13.0,13.0,15.0,Finished,301.0,-2.0
+2022,Bahrain,Permanent,LAT,Williams,20.0,20.0,16.0,Finished,308.0,4.0
+2022,Bahrain,Permanent,HUL,Aston Martin,17.0,17.0,17.0,Finished,297.0,0.0
+2022,Bahrain,Permanent,PER,Red Bull Racing,4.0,4.0,18.0,Fuel pressure,302.0,
+2022,Bahrain,Permanent,VER,Red Bull Racing,2.0,2.0,19.0,Fuel pressure,301.0,
+2022,Bahrain,Permanent,GAS,AlphaTauri,10.0,10.0,20.0,Power Unit,298.0,
+2022,Saudi Arabia,Street,VER,Red Bull Racing,4.0,4.0,1.0,Finished,314.0,3.0
+2022,Saudi Arabia,Street,LEC,Ferrari,2.0,2.0,2.0,Finished,317.0,0.0
+2022,Saudi Arabia,Street,SAI,Ferrari,3.0,3.0,3.0,Finished,307.0,0.0
+2022,Saudi Arabia,Street,PER,Red Bull Racing,1.0,1.0,4.0,Finished,318.0,-3.0
+2022,Saudi Arabia,Street,RUS,Mercedes,6.0,6.0,5.0,Finished,308.0,1.0
+2022,Saudi Arabia,Street,OCO,Alpine,5.0,5.0,6.0,Finished,306.0,-1.0
+2022,Saudi Arabia,Street,NOR,McLaren,11.0,11.0,7.0,Finished,322.0,4.0
+2022,Saudi Arabia,Street,GAS,AlphaTauri,9.0,9.0,8.0,Finished,309.0,1.0
+2022,Saudi Arabia,Street,MAG,Haas F1 Team,10.0,10.0,9.0,Finished,308.0,1.0
+2022,Saudi Arabia,Street,HAM,Mercedes,15.0,16.0,10.0,Finished,309.0,5.0
+2022,Saudi Arabia,Street,ZHO,Alfa Romeo,12.0,13.0,11.0,Finished,309.0,1.0
+2022,Saudi Arabia,Street,HUL,Aston Martin,17.0,18.0,12.0,Finished,310.0,5.0
+2022,Saudi Arabia,Street,STR,Aston Martin,13.0,15.0,13.0,+1 Lap,316.0,
+2022,Saudi Arabia,Street,ALB,Williams,16.0,17.0,14.0,Collision damage,329.0,
+2022,Saudi Arabia,Street,BOT,Alfa Romeo,8.0,8.0,15.0,Cooling system,332.0,
+2022,Saudi Arabia,Street,ALO,Alpine,7.0,7.0,16.0,Water pump,322.0,
+2022,Saudi Arabia,Street,RIC,McLaren,14.0,12.0,17.0,Gearbox,304.0,
+2022,Saudi Arabia,Street,LAT,Williams,18.0,19.0,18.0,Accident,323.0,
+2022,Saudi Arabia,Street,TSU,AlphaTauri,19.0,20.0,19.0,Power Unit,,
+2022,Saudi Arabia,Street,MSC,Haas F1 Team,,14.0,,Withdrew,,
+2022,Australia,Hybrid,LEC,Ferrari,1.0,1.0,1.0,Finished,320.0,0.0
+2022,Australia,Hybrid,PER,Red Bull Racing,3.0,3.0,2.0,Finished,313.0,1.0
+2022,Australia,Hybrid,RUS,Mercedes,6.0,6.0,3.0,Finished,307.0,3.0
+2022,Australia,Hybrid,HAM,Mercedes,5.0,5.0,4.0,Finished,307.0,1.0
+2022,Australia,Hybrid,NOR,McLaren,4.0,4.0,5.0,Finished,304.0,-1.0
+2022,Australia,Hybrid,RIC,McLaren,7.0,7.0,6.0,Finished,305.0,1.0
+2022,Australia,Hybrid,OCO,Alpine,8.0,8.0,7.0,Finished,309.0,1.0
+2022,Australia,Hybrid,BOT,Alfa Romeo,12.0,12.0,8.0,Finished,312.0,4.0
+2022,Australia,Hybrid,GAS,AlphaTauri,11.0,11.0,9.0,Finished,306.0,2.0
+2022,Australia,Hybrid,ALB,Williams,20.0,16.0,10.0,Finished,312.0,10.0
+2022,Australia,Hybrid,ZHO,Alfa Romeo,14.0,14.0,11.0,Finished,310.0,3.0
+2022,Australia,Hybrid,STR,Aston Martin,19.0,20.0,12.0,Finished,309.0,7.0
+2022,Australia,Hybrid,MSC,Haas F1 Team,15.0,15.0,13.0,+1 Lap,310.0,
+2022,Australia,Hybrid,MAG,Haas F1 Team,16.0,17.0,14.0,+1 Lap,309.0,
+2022,Australia,Hybrid,TSU,AlphaTauri,13.0,13.0,15.0,+1 Lap,308.0,
+2022,Australia,Hybrid,LAT,Williams,18.0,19.0,16.0,+1 Lap,312.0,
+2022,Australia,Hybrid,ALO,Alpine,10.0,10.0,17.0,+1 Lap,313.0,
+2022,Australia,Hybrid,VER,Red Bull Racing,2.0,2.0,18.0,Fuel leak,312.0,
+2022,Australia,Hybrid,VET,Aston Martin,17.0,18.0,19.0,Accident,309.0,
+2022,Australia,Hybrid,SAI,Ferrari,9.0,9.0,20.0,Spun off,,
+2022,Emilia Romagna,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,310.0,0.0
+2022,Emilia Romagna,Permanent,PER,Red Bull Racing,3.0,7.0,2.0,Finished,309.0,1.0
+2022,Emilia Romagna,Permanent,NOR,McLaren,5.0,3.0,3.0,Finished,301.0,2.0
+2022,Emilia Romagna,Permanent,RUS,Mercedes,11.0,11.0,4.0,Finished,305.0,7.0
+2022,Emilia Romagna,Permanent,BOT,Alfa Romeo,7.0,8.0,5.0,Finished,303.0,2.0
+2022,Emilia Romagna,Permanent,LEC,Ferrari,2.0,2.0,6.0,Finished,311.0,-4.0
+2022,Emilia Romagna,Permanent,TSU,AlphaTauri,12.0,16.0,7.0,Finished,305.0,5.0
+2022,Emilia Romagna,Permanent,VET,Aston Martin,13.0,9.0,8.0,Finished,304.0,5.0
+2022,Emilia Romagna,Permanent,MAG,Haas F1 Team,8.0,4.0,9.0,Finished,303.0,-1.0
+2022,Emilia Romagna,Permanent,STR,Aston Martin,15.0,15.0,10.0,+1 Lap,306.0,
+2022,Emilia Romagna,Permanent,ALB,Williams,18.0,20.0,11.0,+1 Lap,315.0,
+2022,Emilia Romagna,Permanent,GAS,AlphaTauri,17.0,17.0,12.0,+1 Lap,304.0,
+2022,Emilia Romagna,Permanent,HAM,Mercedes,14.0,13.0,13.0,+1 Lap,328.0,
+2022,Emilia Romagna,Permanent,OCO,Alpine,16.0,19.0,14.0,+1 Lap,303.0,
+2022,Emilia Romagna,Permanent,ZHO,Alfa Romeo,0.0,14.0,15.0,+1 Lap,303.0,
+2022,Emilia Romagna,Permanent,LAT,Williams,19.0,18.0,16.0,+1 Lap,310.0,
+2022,Emilia Romagna,Permanent,MSC,Haas F1 Team,10.0,12.0,17.0,+1 Lap,320.0,
+2022,Emilia Romagna,Permanent,RIC,McLaren,6.0,6.0,18.0,+1 Lap,302.0,
+2022,Emilia Romagna,Permanent,ALO,Alpine,9.0,5.0,19.0,Collision damage,,
+2022,Emilia Romagna,Permanent,SAI,Ferrari,4.0,10.0,20.0,Collision,,
+2022,Miami,Street,VER,Red Bull Racing,3.0,3.0,1.0,Finished,319.0,2.0
+2022,Miami,Street,LEC,Ferrari,1.0,1.0,2.0,Finished,321.0,-1.0
+2022,Miami,Street,SAI,Ferrari,2.0,2.0,3.0,Finished,317.0,-1.0
+2022,Miami,Street,PER,Red Bull Racing,4.0,4.0,4.0,Finished,319.0,0.0
+2022,Miami,Street,RUS,Mercedes,12.0,12.0,5.0,Finished,313.0,7.0
+2022,Miami,Street,HAM,Mercedes,6.0,6.0,6.0,Finished,317.0,0.0
+2022,Miami,Street,BOT,Alfa Romeo,5.0,5.0,7.0,Finished,317.0,-2.0
+2022,Miami,Street,OCO,Alpine,20.0,20.0,8.0,Finished,318.0,12.0
+2022,Miami,Street,ALB,Williams,18.0,18.0,9.0,Finished,321.0,9.0
+2022,Miami,Street,STR,Aston Martin,0.0,10.0,10.0,Finished,344.0,-10.0
+2022,Miami,Street,ALO,Alpine,11.0,11.0,11.0,Finished,312.0,0.0
+2022,Miami,Street,TSU,AlphaTauri,9.0,9.0,12.0,Finished,322.0,-3.0
+2022,Miami,Street,RIC,McLaren,14.0,14.0,13.0,Finished,330.0,1.0
+2022,Miami,Street,LAT,Williams,19.0,19.0,14.0,Finished,309.0,5.0
+2022,Miami,Street,MSC,Haas F1 Team,15.0,15.0,15.0,Finished,315.0,0.0
+2022,Miami,Street,MAG,Haas F1 Team,16.0,16.0,16.0,Front wing,341.0,
+2022,Miami,Street,VET,Aston Martin,0.0,13.0,17.0,Collision,329.0,
+2022,Miami,Street,GAS,AlphaTauri,7.0,7.0,18.0,Suspension,318.0,
+2022,Miami,Street,NOR,McLaren,8.0,8.0,19.0,Collision,337.0,
+2022,Miami,Street,ZHO,Alfa Romeo,17.0,17.0,20.0,Water leak,335.0,
+2022,Spain,Permanent,VER,Red Bull Racing,2.0,2.0,1.0,Finished,299.0,1.0
+2022,Spain,Permanent,PER,Red Bull Racing,5.0,5.0,2.0,Finished,303.0,3.0
+2022,Spain,Permanent,RUS,Mercedes,4.0,4.0,3.0,Finished,328.0,1.0
+2022,Spain,Permanent,SAI,Ferrari,3.0,3.0,4.0,Finished,306.0,-1.0
+2022,Spain,Permanent,HAM,Mercedes,6.0,6.0,5.0,Finished,319.0,1.0
+2022,Spain,Permanent,BOT,Alfa Romeo,7.0,7.0,6.0,Finished,318.0,1.0
+2022,Spain,Permanent,OCO,Alpine,12.0,12.0,7.0,Finished,298.0,5.0
+2022,Spain,Permanent,NOR,McLaren,11.0,11.0,8.0,Finished,319.0,3.0
+2022,Spain,Permanent,ALO,Alpine,20.0,17.0,9.0,+1 Lap,315.0,
+2022,Spain,Permanent,TSU,AlphaTauri,13.0,13.0,10.0,+1 Lap,304.0,
+2022,Spain,Permanent,VET,Aston Martin,16.0,16.0,11.0,+1 Lap,321.0,
+2022,Spain,Permanent,RIC,McLaren,9.0,9.0,12.0,+1 Lap,302.0,
+2022,Spain,Permanent,GAS,AlphaTauri,14.0,14.0,13.0,+1 Lap,302.0,
+2022,Spain,Permanent,MSC,Haas F1 Team,10.0,10.0,14.0,+1 Lap,299.0,
+2022,Spain,Permanent,STR,Aston Martin,17.0,18.0,15.0,+1 Lap,300.0,
+2022,Spain,Permanent,LAT,Williams,19.0,20.0,16.0,+2 Laps,306.0,
+2022,Spain,Permanent,MAG,Haas F1 Team,8.0,8.0,17.0,+2 Laps,295.0,
+2022,Spain,Permanent,ALB,Williams,18.0,19.0,18.0,+2 Laps,308.0,
+2022,Spain,Permanent,ZHO,Alfa Romeo,15.0,15.0,19.0,Power loss,299.0,
+2022,Spain,Permanent,LEC,Ferrari,1.0,1.0,20.0,Turbo,305.0,
+2022,Monaco,Street,PER,Red Bull Racing,3.0,3.0,1.0,Finished,281.0,2.0
+2022,Monaco,Street,SAI,Ferrari,2.0,2.0,2.0,Finished,283.0,0.0
+2022,Monaco,Street,VER,Red Bull Racing,4.0,4.0,3.0,Finished,270.0,1.0
+2022,Monaco,Street,LEC,Ferrari,1.0,1.0,4.0,Finished,283.0,-3.0
+2022,Monaco,Street,RUS,Mercedes,6.0,6.0,5.0,Finished,281.0,1.0
+2022,Monaco,Street,NOR,McLaren,5.0,5.0,6.0,Finished,282.0,-1.0
+2022,Monaco,Street,ALO,Alpine,7.0,7.0,7.0,Finished,278.0,0.0
+2022,Monaco,Street,HAM,Mercedes,8.0,8.0,8.0,Finished,281.0,0.0
+2022,Monaco,Street,BOT,Alfa Romeo,12.0,12.0,9.0,Finished,277.0,3.0
+2022,Monaco,Street,VET,Aston Martin,9.0,9.0,10.0,Finished,286.0,-1.0
+2022,Monaco,Street,GAS,AlphaTauri,17.0,17.0,11.0,Finished,289.0,6.0
+2022,Monaco,Street,OCO,Alpine,10.0,10.0,12.0,Finished,279.0,-2.0
+2022,Monaco,Street,RIC,McLaren,14.0,14.0,13.0,Finished,287.0,1.0
+2022,Monaco,Street,STR,Aston Martin,18.0,18.0,14.0,Finished,286.0,4.0
+2022,Monaco,Street,LAT,Williams,19.0,19.0,15.0,+1 Lap,291.0,
+2022,Monaco,Street,ZHO,Alfa Romeo,20.0,20.0,16.0,+1 Lap,285.0,
+2022,Monaco,Street,TSU,AlphaTauri,11.0,11.0,17.0,+1 Lap,285.0,
+2022,Monaco,Street,ALB,Williams,16.0,16.0,18.0,Mechanical,287.0,
+2022,Monaco,Street,MSC,Haas F1 Team,15.0,15.0,19.0,Accident,,
+2022,Monaco,Street,MAG,Haas F1 Team,13.0,13.0,20.0,Water pressure,,
+2022,Azerbaijan,Street,VER,Red Bull Racing,3.0,3.0,1.0,Finished,325.0,2.0
+2022,Azerbaijan,Street,PER,Red Bull Racing,2.0,2.0,2.0,Finished,324.0,0.0
+2022,Azerbaijan,Street,RUS,Mercedes,5.0,5.0,3.0,Finished,312.0,2.0
+2022,Azerbaijan,Street,HAM,Mercedes,7.0,7.0,4.0,Finished,315.0,3.0
+2022,Azerbaijan,Street,GAS,AlphaTauri,6.0,6.0,5.0,Finished,318.0,1.0
+2022,Azerbaijan,Street,VET,Aston Martin,9.0,9.0,6.0,Finished,324.0,3.0
+2022,Azerbaijan,Street,ALO,Alpine,10.0,10.0,7.0,Finished,328.0,3.0
+2022,Azerbaijan,Street,RIC,McLaren,12.0,12.0,8.0,Finished,317.0,4.0
+2022,Azerbaijan,Street,NOR,McLaren,11.0,11.0,9.0,Finished,315.0,2.0
+2022,Azerbaijan,Street,OCO,Alpine,13.0,13.0,10.0,Finished,326.0,3.0
+2022,Azerbaijan,Street,BOT,Alfa Romeo,15.0,15.0,11.0,+1 Lap,317.0,
+2022,Azerbaijan,Street,ALB,Williams,17.0,17.0,12.0,+1 Lap,323.0,
+2022,Azerbaijan,Street,TSU,AlphaTauri,8.0,8.0,13.0,+1 Lap,322.0,
+2022,Azerbaijan,Street,MSC,Haas F1 Team,20.0,20.0,14.0,+1 Lap,319.0,
+2022,Azerbaijan,Street,LAT,Williams,18.0,18.0,15.0,+1 Lap,321.0,
+2022,Azerbaijan,Street,STR,Aston Martin,19.0,19.0,16.0,Vibrations,323.0,
+2022,Azerbaijan,Street,MAG,Haas F1 Team,16.0,16.0,17.0,Power Unit,324.0,
+2022,Azerbaijan,Street,ZHO,Alfa Romeo,14.0,14.0,18.0,Hydraulics,333.0,
+2022,Azerbaijan,Street,LEC,Ferrari,1.0,1.0,19.0,Power Unit,318.0,
+2022,Azerbaijan,Street,SAI,Ferrari,4.0,4.0,20.0,Hydraulics,324.0,
+2022,Canada,Hybrid,VER,Red Bull Racing,1.0,1.0,1.0,Finished,309.0,0.0
+2022,Canada,Hybrid,SAI,Ferrari,3.0,3.0,2.0,Finished,324.0,1.0
+2022,Canada,Hybrid,HAM,Mercedes,4.0,4.0,3.0,Finished,309.0,1.0
+2022,Canada,Hybrid,RUS,Mercedes,8.0,8.0,4.0,Finished,306.0,4.0
+2022,Canada,Hybrid,LEC,Ferrari,19.0,15.0,5.0,Finished,312.0,14.0
+2022,Canada,Hybrid,OCO,Alpine,7.0,7.0,6.0,Finished,310.0,1.0
+2022,Canada,Hybrid,BOT,Alfa Romeo,11.0,11.0,7.0,Finished,333.0,4.0
+2022,Canada,Hybrid,ZHO,Alfa Romeo,10.0,10.0,8.0,Finished,336.0,2.0
+2022,Canada,Hybrid,ALO,Alpine,2.0,2.0,9.0,Finished,326.0,-7.0
+2022,Canada,Hybrid,STR,Aston Martin,17.0,18.0,10.0,Finished,310.0,7.0
+2022,Canada,Hybrid,RIC,McLaren,9.0,9.0,11.0,Finished,308.0,-2.0
+2022,Canada,Hybrid,VET,Aston Martin,16.0,17.0,12.0,Finished,315.0,4.0
+2022,Canada,Hybrid,ALB,Williams,12.0,12.0,13.0,Finished,321.0,-1.0
+2022,Canada,Hybrid,GAS,AlphaTauri,15.0,16.0,14.0,Finished,336.0,1.0
+2022,Canada,Hybrid,NOR,McLaren,14.0,14.0,15.0,Finished,331.0,-1.0
+2022,Canada,Hybrid,LAT,Williams,18.0,19.0,16.0,Finished,316.0,2.0
+2022,Canada,Hybrid,MAG,Haas F1 Team,5.0,5.0,17.0,Finished,310.0,-12.0
+2022,Canada,Hybrid,TSU,AlphaTauri,20.0,20.0,18.0,Accident,312.0,
+2022,Canada,Hybrid,MSC,Haas F1 Team,6.0,6.0,19.0,Engine,309.0,
+2022,Canada,Hybrid,PER,Red Bull Racing,13.0,13.0,20.0,Gearbox,341.0,
+2022,United Kingdom,Permanent,VER,Red Bull Racing,2.0,3.0,1.0,Finished,328.0,1.0
+2022,United Kingdom,Permanent,HAM,Mercedes,3.0,5.0,2.0,Finished,298.0,1.0
+2022,United Kingdom,Permanent,LEC,Ferrari,12.0,2.0,3.0,Finished,300.0,9.0
+2022,United Kingdom,Permanent,PER,Red Bull Racing,9.0,4.0,4.0,Finished,304.0,5.0
+2022,United Kingdom,Permanent,RUS,Mercedes,4.0,6.0,5.0,Finished,301.0,-1.0
+2022,United Kingdom,Permanent,NOR,McLaren,6.0,8.0,6.0,Finished,328.0,0.0
+2022,United Kingdom,Permanent,ALO,Alpine,14.0,9.0,7.0,Finished,305.0,7.0
+2022,United Kingdom,Permanent,VET,Aston Martin,10.0,12.0,8.0,Finished,299.0,2.0
+2022,United Kingdom,Permanent,MAG,Haas F1 Team,13.0,16.0,9.0,Finished,297.0,4.0
+2022,United Kingdom,Permanent,TSU,AlphaTauri,19.0,15.0,10.0,Finished,326.0,9.0
+2022,United Kingdom,Permanent,OCO,Alpine,0.0,18.0,11.0,Finished,300.0,-11.0
+2022,United Kingdom,Permanent,ZHO,Alfa Romeo,18.0,14.0,12.0,Finished,299.0,6.0
+2022,United Kingdom,Permanent,ALB,Williams,8.0,11.0,13.0,Finished,307.0,-5.0
+2022,United Kingdom,Permanent,GAS,AlphaTauri,11.0,13.0,14.0,Finished,305.0,-3.0
+2022,United Kingdom,Permanent,MSC,Haas F1 Team,16.0,19.0,15.0,Finished,303.0,1.0
+2022,United Kingdom,Permanent,RIC,McLaren,15.0,17.0,16.0,Finished,299.0,-1.0
+2022,United Kingdom,Permanent,LAT,Williams,17.0,20.0,17.0,Finished,307.0,0.0
+2022,United Kingdom,Permanent,STR,Aston Martin,5.0,7.0,18.0,Collision,294.0,
+2022,United Kingdom,Permanent,BOT,Alfa Romeo,7.0,10.0,19.0,Spun off,298.0,
+2022,United Kingdom,Permanent,SAI,Ferrari,1.0,1.0,20.0,Collision damage,,
+2022,Austria,Permanent,LEC,Ferrari,2.0,2.0,1.0,Finished,301.0,1.0
+2022,Austria,Permanent,VER,Red Bull Racing,1.0,1.0,2.0,Finished,312.0,-1.0
+2022,Austria,Permanent,HAM,Mercedes,8.0,9.0,3.0,Finished,298.0,5.0
+2022,Austria,Permanent,RUS,Mercedes,4.0,4.0,4.0,Finished,313.0,0.0
+2022,Austria,Permanent,OCO,Alpine,6.0,5.0,5.0,Finished,311.0,1.0
+2022,Austria,Permanent,MSC,Haas F1 Team,9.0,7.0,6.0,+1 Lap,310.0,
+2022,Austria,Permanent,NOR,McLaren,10.0,15.0,7.0,+1 Lap,317.0,
+2022,Austria,Permanent,MAG,Haas F1 Team,7.0,6.0,8.0,+1 Lap,297.0,
+2022,Austria,Permanent,RIC,McLaren,11.0,16.0,9.0,+1 Lap,297.0,
+2022,Austria,Permanent,ALO,Alpine,19.0,8.0,10.0,+1 Lap,313.0,
+2022,Austria,Permanent,BOT,Alfa Romeo,0.0,12.0,11.0,+1 Lap,315.0,
+2022,Austria,Permanent,ALB,Williams,15.0,11.0,12.0,+1 Lap,319.0,
+2022,Austria,Permanent,STR,Aston Martin,12.0,17.0,13.0,+1 Lap,319.0,
+2022,Austria,Permanent,ZHO,Alfa Romeo,13.0,18.0,14.0,+1 Lap,321.0,
+2022,Austria,Permanent,GAS,AlphaTauri,14.0,10.0,15.0,+1 Lap,297.0,
+2022,Austria,Permanent,TSU,AlphaTauri,16.0,14.0,16.0,+1 Lap,302.0,
+2022,Austria,Permanent,VET,Aston Martin,18.0,20.0,17.0,+1 Lap,310.0,
+2022,Austria,Permanent,SAI,Ferrari,3.0,3.0,18.0,Power Unit,312.0,
+2022,Austria,Permanent,LAT,Williams,17.0,19.0,19.0,Undertray,298.0,
+2022,Austria,Permanent,PER,Red Bull Racing,5.0,13.0,20.0,Collision damage,293.0,
+2022,France,Permanent,LEC,Ferrari,,,,,,
+2022,France,Permanent,VER,Red Bull Racing,,,,,,
+2022,France,Permanent,PER,Red Bull Racing,,,,,,
+2022,France,Permanent,HAM,Mercedes,,,,,,
+2022,France,Permanent,NOR,McLaren,,,,,,
+2022,France,Permanent,RUS,Mercedes,,,,,,
+2022,France,Permanent,ALO,Alpine,,,,,,
+2022,France,Permanent,TSU,AlphaTauri,,,,,,
+2022,France,Permanent,RIC,McLaren,,,,,,
+2022,France,Permanent,OCO,Alpine,,,,,,
+2022,France,Permanent,BOT,Alfa Romeo,,,,,,
+2022,France,Permanent,VET,Aston Martin,,,,,,
+2022,France,Permanent,ALB,Williams,,,,,,
+2022,France,Permanent,GAS,AlphaTauri,,,,,,
+2022,France,Permanent,STR,Aston Martin,,,,,,
+2022,France,Permanent,ZHO,Alfa Romeo,,,,,,
+2022,France,Permanent,MSC,Haas F1 Team,,,,,,
+2022,France,Permanent,LAT,Williams,,,,,,
+2022,France,Permanent,SAI,Ferrari,,,,,,
+2022,France,Permanent,MAG,Haas F1 Team,,,,,,
+2022,Hungary,Permanent,VER,Red Bull Racing,10.0,10.0,1.0,Finished,312.0,9.0
+2022,Hungary,Permanent,HAM,Mercedes,7.0,7.0,2.0,Finished,285.0,5.0
+2022,Hungary,Permanent,RUS,Mercedes,1.0,1.0,3.0,Finished,283.0,-2.0
+2022,Hungary,Permanent,SAI,Ferrari,2.0,2.0,4.0,Finished,286.0,-2.0
+2022,Hungary,Permanent,PER,Red Bull Racing,11.0,11.0,5.0,Finished,290.0,6.0
+2022,Hungary,Permanent,LEC,Ferrari,3.0,3.0,6.0,Finished,287.0,-3.0
+2022,Hungary,Permanent,NOR,McLaren,4.0,4.0,7.0,Finished,302.0,-3.0
+2022,Hungary,Permanent,ALO,Alpine,6.0,6.0,8.0,+1 Lap,297.0,
+2022,Hungary,Permanent,OCO,Alpine,5.0,5.0,9.0,+1 Lap,287.0,
+2022,Hungary,Permanent,VET,Aston Martin,18.0,18.0,10.0,+1 Lap,311.0,
+2022,Hungary,Permanent,STR,Aston Martin,14.0,14.0,11.0,+1 Lap,294.0,
+2022,Hungary,Permanent,GAS,AlphaTauri,0.0,19.0,12.0,+1 Lap,291.0,
+2022,Hungary,Permanent,ZHO,Alfa Romeo,12.0,12.0,13.0,+1 Lap,304.0,
+2022,Hungary,Permanent,MSC,Haas F1 Team,15.0,15.0,14.0,+1 Lap,285.0,
+2022,Hungary,Permanent,RIC,McLaren,9.0,9.0,15.0,+1 Lap,290.0,
+2022,Hungary,Permanent,MAG,Haas F1 Team,13.0,13.0,16.0,+1 Lap,285.0,
+2022,Hungary,Permanent,ALB,Williams,17.0,17.0,17.0,+1 Lap,294.0,
+2022,Hungary,Permanent,LAT,Williams,19.0,20.0,18.0,+1 Lap,312.0,
+2022,Hungary,Permanent,TSU,AlphaTauri,16.0,16.0,19.0,+2 Laps,289.0,
+2022,Hungary,Permanent,BOT,Alfa Romeo,8.0,8.0,20.0,Power Unit,289.0,
+2022,Belgium,Permanent,VER,Red Bull Racing,14.0,1.0,1.0,Finished,320.0,13.0
+2022,Belgium,Permanent,PER,Red Bull Racing,2.0,3.0,2.0,Finished,322.0,0.0
+2022,Belgium,Permanent,SAI,Ferrari,1.0,2.0,3.0,Finished,316.0,-2.0
+2022,Belgium,Permanent,RUS,Mercedes,5.0,8.0,4.0,Finished,313.0,1.0
+2022,Belgium,Permanent,ALO,Alpine,3.0,6.0,5.0,Finished,316.0,-2.0
+2022,Belgium,Permanent,LEC,Ferrari,15.0,4.0,6.0,Finished,334.0,9.0
+2022,Belgium,Permanent,OCO,Alpine,16.0,5.0,7.0,Finished,317.0,9.0
+2022,Belgium,Permanent,VET,Aston Martin,10.0,16.0,8.0,Finished,318.0,2.0
+2022,Belgium,Permanent,GAS,AlphaTauri,0.0,12.0,9.0,Finished,337.0,-9.0
+2022,Belgium,Permanent,ALB,Williams,6.0,9.0,10.0,Finished,335.0,-4.0
+2022,Belgium,Permanent,STR,Aston Martin,9.0,14.0,11.0,Finished,333.0,-2.0
+2022,Belgium,Permanent,NOR,McLaren,17.0,10.0,12.0,Finished,329.0,5.0
+2022,Belgium,Permanent,TSU,AlphaTauri,0.0,19.0,13.0,Finished,323.0,-13.0
+2022,Belgium,Permanent,ZHO,Alfa Romeo,18.0,13.0,14.0,Finished,328.0,4.0
+2022,Belgium,Permanent,RIC,McLaren,7.0,11.0,15.0,Finished,328.0,-8.0
+2022,Belgium,Permanent,MAG,Haas F1 Team,12.0,18.0,16.0,+1 Lap,315.0,
+2022,Belgium,Permanent,MSC,Haas F1 Team,19.0,15.0,17.0,+1 Lap,318.0,
+2022,Belgium,Permanent,LAT,Williams,11.0,17.0,18.0,+1 Lap,317.0,
+2022,Belgium,Permanent,BOT,Alfa Romeo,13.0,20.0,19.0,Accident,,
+2022,Belgium,Permanent,HAM,Mercedes,4.0,7.0,20.0,Collision damage,,
+2022,Netherlands,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,301.0,0.0
+2022,Netherlands,Permanent,RUS,Mercedes,6.0,6.0,2.0,Finished,297.0,4.0
+2022,Netherlands,Permanent,LEC,Ferrari,2.0,2.0,3.0,Finished,305.0,-1.0
+2022,Netherlands,Permanent,HAM,Mercedes,4.0,4.0,4.0,Finished,295.0,0.0
+2022,Netherlands,Permanent,PER,Red Bull Racing,5.0,5.0,5.0,Finished,319.0,0.0
+2022,Netherlands,Permanent,ALO,Alpine,13.0,13.0,6.0,Finished,314.0,7.0
+2022,Netherlands,Permanent,NOR,McLaren,7.0,7.0,7.0,Finished,318.0,0.0
+2022,Netherlands,Permanent,SAI,Ferrari,3.0,3.0,8.0,Finished,303.0,-5.0
+2022,Netherlands,Permanent,OCO,Alpine,12.0,12.0,9.0,Finished,305.0,3.0
+2022,Netherlands,Permanent,STR,Aston Martin,10.0,10.0,10.0,Finished,318.0,0.0
+2022,Netherlands,Permanent,GAS,AlphaTauri,11.0,11.0,11.0,Finished,325.0,0.0
+2022,Netherlands,Permanent,ALB,Williams,15.0,15.0,12.0,Finished,308.0,3.0
+2022,Netherlands,Permanent,MSC,Haas F1 Team,8.0,8.0,13.0,Finished,296.0,-5.0
+2022,Netherlands,Permanent,VET,Aston Martin,19.0,19.0,14.0,Finished,300.0,5.0
+2022,Netherlands,Permanent,MAG,Haas F1 Team,18.0,18.0,15.0,Finished,300.0,3.0
+2022,Netherlands,Permanent,ZHO,Alfa Romeo,14.0,14.0,16.0,Finished,319.0,-2.0
+2022,Netherlands,Permanent,RIC,McLaren,17.0,17.0,17.0,Finished,301.0,0.0
+2022,Netherlands,Permanent,LAT,Williams,20.0,20.0,18.0,+1 Lap,309.0,
+2022,Netherlands,Permanent,BOT,Alfa Romeo,16.0,16.0,19.0,Engine,296.0,
+2022,Netherlands,Permanent,TSU,AlphaTauri,9.0,9.0,20.0,Differential,296.0,
+2022,Italy,Permanent,VER,Red Bull Racing,7.0,2.0,1.0,Finished,328.0,6.0
+2022,Italy,Permanent,LEC,Ferrari,1.0,1.0,2.0,Finished,325.0,-1.0
+2022,Italy,Permanent,RUS,Mercedes,2.0,6.0,3.0,Finished,327.0,-1.0
+2022,Italy,Permanent,SAI,Ferrari,18.0,3.0,4.0,Finished,324.0,14.0
+2022,Italy,Permanent,HAM,Mercedes,19.0,5.0,5.0,Finished,321.0,14.0
+2022,Italy,Permanent,PER,Red Bull Racing,13.0,4.0,6.0,Finished,320.0,7.0
+2022,Italy,Permanent,NOR,McLaren,3.0,7.0,7.0,Finished,323.0,-4.0
+2022,Italy,Permanent,GAS,AlphaTauri,5.0,9.0,8.0,Finished,336.0,-3.0
+2022,Italy,Permanent,DEV,Williams,8.0,13.0,9.0,Finished,341.0,-1.0
+2022,Italy,Permanent,ZHO,Alfa Romeo,9.0,14.0,10.0,Finished,342.0,-1.0
+2022,Italy,Permanent,OCO,Alpine,14.0,11.0,11.0,Finished,325.0,3.0
+2022,Italy,Permanent,MSC,Haas F1 Team,17.0,20.0,12.0,Finished,318.0,5.0
+2022,Italy,Permanent,BOT,Alfa Romeo,15.0,12.0,13.0,+1 Lap,328.0,
+2022,Italy,Permanent,TSU,AlphaTauri,20.0,15.0,14.0,+1 Lap,327.0,
+2022,Italy,Permanent,LAT,Williams,10.0,16.0,15.0,+1 Lap,328.0,
+2022,Italy,Permanent,MAG,Haas F1 Team,16.0,19.0,16.0,+1 Lap,319.0,
+2022,Italy,Permanent,RIC,McLaren,4.0,8.0,17.0,Oil leak,325.0,
+2022,Italy,Permanent,STR,Aston Martin,12.0,18.0,18.0,Engine,324.0,
+2022,Italy,Permanent,ALO,Alpine,6.0,10.0,19.0,Water pressure,332.0,
+2022,Italy,Permanent,VET,Aston Martin,11.0,17.0,20.0,Engine,343.0,
+2022,Singapore,Street,PER,Red Bull Racing,2.0,2.0,1.0,Finished,293.0,1.0
+2022,Singapore,Street,LEC,Ferrari,1.0,1.0,2.0,Finished,294.0,-1.0
+2022,Singapore,Street,SAI,Ferrari,4.0,4.0,3.0,Finished,294.0,1.0
+2022,Singapore,Street,NOR,McLaren,6.0,6.0,4.0,Finished,284.0,2.0
+2022,Singapore,Street,RIC,McLaren,16.0,17.0,5.0,Finished,279.0,11.0
+2022,Singapore,Street,STR,Aston Martin,11.0,12.0,6.0,Finished,292.0,5.0
+2022,Singapore,Street,VER,Red Bull Racing,8.0,8.0,7.0,Finished,291.0,1.0
+2022,Singapore,Street,VET,Aston Martin,13.0,14.0,8.0,Finished,286.0,5.0
+2022,Singapore,Street,HAM,Mercedes,3.0,3.0,9.0,Finished,287.0,-6.0
+2022,Singapore,Street,GAS,AlphaTauri,7.0,7.0,10.0,Finished,293.0,-3.0
+2022,Singapore,Street,BOT,Alfa Romeo,15.0,16.0,11.0,Finished,291.0,4.0
+2022,Singapore,Street,MAG,Haas F1 Team,9.0,9.0,12.0,Finished,291.0,-3.0
+2022,Singapore,Street,MSC,Haas F1 Team,12.0,13.0,13.0,+1 Lap,293.0,
+2022,Singapore,Street,RUS,Mercedes,0.0,11.0,14.0,+2 Laps,292.0,
+2022,Singapore,Street,TSU,AlphaTauri,10.0,10.0,15.0,Accident,,
+2022,Singapore,Street,OCO,Alpine,17.0,18.0,16.0,Engine,,
+2022,Singapore,Street,ALB,Williams,18.0,19.0,17.0,Collision damage,,
+2022,Singapore,Street,ALO,Alpine,5.0,5.0,18.0,Engine,,
+2022,Singapore,Street,LAT,Williams,19.0,20.0,19.0,Collision damage,,
+2022,Singapore,Street,ZHO,Alfa Romeo,14.0,15.0,20.0,Collision,,
+2022,Japan,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,298.0,0.0
+2022,Japan,Permanent,PER,Red Bull Racing,4.0,4.0,2.0,Finished,300.0,2.0
+2022,Japan,Permanent,LEC,Ferrari,2.0,2.0,3.0,Finished,297.0,-1.0
+2022,Japan,Permanent,OCO,Alpine,5.0,5.0,4.0,Finished,297.0,1.0
+2022,Japan,Permanent,HAM,Mercedes,6.0,6.0,5.0,Finished,295.0,1.0
+2022,Japan,Permanent,VET,Aston Martin,9.0,9.0,6.0,Finished,293.0,3.0
+2022,Japan,Permanent,ALO,Alpine,7.0,7.0,7.0,Finished,297.0,0.0
+2022,Japan,Permanent,RUS,Mercedes,8.0,8.0,8.0,Finished,295.0,0.0
+2022,Japan,Permanent,LAT,Williams,20.0,20.0,9.0,Finished,311.0,11.0
+2022,Japan,Permanent,NOR,McLaren,10.0,10.0,10.0,Finished,296.0,0.0
+2022,Japan,Permanent,RIC,McLaren,11.0,11.0,11.0,Finished,297.0,0.0
+2022,Japan,Permanent,STR,Aston Martin,19.0,19.0,12.0,Finished,295.0,7.0
+2022,Japan,Permanent,TSU,AlphaTauri,13.0,13.0,13.0,Finished,304.0,0.0
+2022,Japan,Permanent,MAG,Haas F1 Team,18.0,18.0,14.0,Finished,296.0,4.0
+2022,Japan,Permanent,BOT,Alfa Romeo,12.0,12.0,15.0,Finished,0.0,-3.0
+2022,Japan,Permanent,ZHO,Alfa Romeo,14.0,14.0,16.0,Finished,296.0,-2.0
+2022,Japan,Permanent,MSC,Haas F1 Team,15.0,15.0,17.0,Finished,291.0,-2.0
+2022,Japan,Permanent,GAS,AlphaTauri,17.0,17.0,18.0,Finished,295.0,-1.0
+2022,Japan,Permanent,SAI,Ferrari,3.0,3.0,19.0,Accident,,
+2022,Japan,Permanent,ALB,Williams,16.0,16.0,20.0,Hydraulics,,
+2022,United States,Permanent,VER,Red Bull Racing,2.0,3.0,1.0,Finished,328.0,1.0
+2022,United States,Permanent,HAM,Mercedes,3.0,5.0,2.0,Finished,298.0,1.0
+2022,United States,Permanent,LEC,Ferrari,12.0,2.0,3.0,Finished,300.0,9.0
+2022,United States,Permanent,PER,Red Bull Racing,9.0,4.0,4.0,Finished,304.0,5.0
+2022,United States,Permanent,RUS,Mercedes,4.0,6.0,5.0,Finished,301.0,-1.0
+2022,United States,Permanent,NOR,McLaren,6.0,8.0,6.0,Finished,328.0,0.0
+2022,United States,Permanent,ALO,Alpine,14.0,9.0,7.0,Finished,305.0,7.0
+2022,United States,Permanent,VET,Aston Martin,10.0,12.0,8.0,Finished,299.0,2.0
+2022,United States,Permanent,MAG,Haas F1 Team,13.0,16.0,9.0,Finished,297.0,4.0
+2022,United States,Permanent,TSU,AlphaTauri,19.0,15.0,10.0,Finished,326.0,9.0
+2022,United States,Permanent,OCO,Alpine,0.0,18.0,11.0,Finished,300.0,-11.0
+2022,United States,Permanent,ZHO,Alfa Romeo,18.0,14.0,12.0,Finished,299.0,6.0
+2022,United States,Permanent,ALB,Williams,8.0,11.0,13.0,Finished,307.0,-5.0
+2022,United States,Permanent,GAS,AlphaTauri,11.0,13.0,14.0,Finished,305.0,-3.0
+2022,United States,Permanent,MSC,Haas F1 Team,16.0,19.0,15.0,Finished,303.0,1.0
+2022,United States,Permanent,RIC,McLaren,15.0,17.0,16.0,Finished,299.0,-1.0
+2022,United States,Permanent,LAT,Williams,17.0,20.0,17.0,Finished,307.0,0.0
+2022,United States,Permanent,STR,Aston Martin,5.0,7.0,18.0,Collision,294.0,
+2022,United States,Permanent,BOT,Alfa Romeo,7.0,10.0,19.0,Spun off,298.0,
+2022,United States,Permanent,SAI,Ferrari,1.0,1.0,20.0,Collision damage,,
+2022,Mexico City,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,326.0,0.0
+2022,Mexico City,Permanent,HAM,Mercedes,3.0,3.0,2.0,Finished,324.0,1.0
+2022,Mexico City,Permanent,PER,Red Bull Racing,4.0,4.0,3.0,Finished,347.0,1.0
+2022,Mexico City,Permanent,RUS,Mercedes,2.0,2.0,4.0,Finished,342.0,-2.0
+2022,Mexico City,Permanent,SAI,Ferrari,5.0,5.0,5.0,Finished,336.0,0.0
+2022,Mexico City,Permanent,LEC,Ferrari,7.0,7.0,6.0,Finished,323.0,1.0
+2022,Mexico City,Permanent,RIC,McLaren,11.0,11.0,7.0,+1 Lap,328.0,
+2022,Mexico City,Permanent,OCO,Alpine,10.0,10.0,8.0,+1 Lap,324.0,
+2022,Mexico City,Permanent,NOR,McLaren,8.0,8.0,9.0,+1 Lap,329.0,
+2022,Mexico City,Permanent,BOT,Alfa Romeo,6.0,6.0,10.0,+1 Lap,343.0,
+2022,Mexico City,Permanent,GAS,AlphaTauri,14.0,14.0,11.0,+1 Lap,328.0,
+2022,Mexico City,Permanent,ALB,Williams,17.0,19.0,12.0,+1 Lap,333.0,
+2022,Mexico City,Permanent,ZHO,Alfa Romeo,12.0,12.0,13.0,+1 Lap,324.0,
+2022,Mexico City,Permanent,VET,Aston Martin,16.0,17.0,14.0,+1 Lap,326.0,
+2022,Mexico City,Permanent,STR,Aston Martin,20.0,18.0,15.0,+1 Lap,323.0,
+2022,Mexico City,Permanent,MSC,Haas F1 Team,15.0,16.0,16.0,+1 Lap,325.0,
+2022,Mexico City,Permanent,MAG,Haas F1 Team,19.0,15.0,17.0,+1 Lap,325.0,
+2022,Mexico City,Permanent,LAT,Williams,18.0,20.0,18.0,+2 Laps,353.0,
+2022,Mexico City,Permanent,ALO,Alpine,9.0,9.0,19.0,Engine,324.0,
+2022,Mexico City,Permanent,TSU,AlphaTauri,13.0,13.0,20.0,Collision damage,331.0,
+2022,São Paulo,Permanent,RUS,Mercedes,1.0,3.0,1.0,Finished,299.0,0.0
+2022,São Paulo,Permanent,HAM,Mercedes,2.0,8.0,2.0,Finished,310.0,0.0
+2022,São Paulo,Permanent,SAI,Ferrari,7.0,5.0,3.0,Finished,305.0,4.0
+2022,São Paulo,Permanent,LEC,Ferrari,5.0,10.0,4.0,Finished,329.0,1.0
+2022,São Paulo,Permanent,ALO,Alpine,17.0,7.0,5.0,Finished,327.0,12.0
+2022,São Paulo,Permanent,VER,Red Bull Racing,3.0,2.0,6.0,Finished,314.0,-3.0
+2022,São Paulo,Permanent,PER,Red Bull Racing,4.0,9.0,7.0,Finished,313.0,-3.0
+2022,São Paulo,Permanent,OCO,Alpine,16.0,6.0,8.0,Finished,308.0,8.0
+2022,São Paulo,Permanent,BOT,Alfa Romeo,14.0,18.0,9.0,Finished,309.0,5.0
+2022,São Paulo,Permanent,STR,Aston Martin,15.0,15.0,10.0,Finished,305.0,5.0
+2022,São Paulo,Permanent,VET,Aston Martin,9.0,13.0,11.0,Finished,312.0,-2.0
+2022,São Paulo,Permanent,ZHO,Alfa Romeo,13.0,17.0,12.0,Finished,332.0,1.0
+2022,São Paulo,Permanent,MSC,Haas F1 Team,12.0,20.0,13.0,Finished,324.0,-1.0
+2022,São Paulo,Permanent,GAS,AlphaTauri,10.0,12.0,14.0,Finished,336.0,-4.0
+2022,São Paulo,Permanent,ALB,Williams,19.0,11.0,15.0,Finished,312.0,4.0
+2022,São Paulo,Permanent,LAT,Williams,18.0,16.0,16.0,Finished,307.0,2.0
+2022,São Paulo,Permanent,TSU,AlphaTauri,0.0,19.0,17.0,+1 Lap,315.0,
+2022,São Paulo,Permanent,NOR,McLaren,6.0,4.0,18.0,Gearbox,332.0,
+2022,São Paulo,Permanent,MAG,Haas F1 Team,8.0,1.0,19.0,Collision,,
+2022,São Paulo,Permanent,RIC,McLaren,11.0,14.0,20.0,Collision,,
+2022,Abu Dhabi,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,308.0,0.0
+2022,Abu Dhabi,Permanent,LEC,Ferrari,3.0,3.0,2.0,Finished,317.0,1.0
+2022,Abu Dhabi,Permanent,PER,Red Bull Racing,2.0,2.0,3.0,Finished,308.0,-1.0
+2022,Abu Dhabi,Permanent,SAI,Ferrari,4.0,4.0,4.0,Finished,327.0,0.0
+2022,Abu Dhabi,Permanent,RUS,Mercedes,6.0,6.0,5.0,Finished,300.0,1.0
+2022,Abu Dhabi,Permanent,NOR,McLaren,7.0,7.0,6.0,Finished,298.0,1.0
+2022,Abu Dhabi,Permanent,OCO,Alpine,8.0,8.0,7.0,Finished,301.0,1.0
+2022,Abu Dhabi,Permanent,STR,Aston Martin,14.0,14.0,8.0,Finished,299.0,6.0
+2022,Abu Dhabi,Permanent,RIC,McLaren,13.0,10.0,9.0,Finished,302.0,4.0
+2022,Abu Dhabi,Permanent,VET,Aston Martin,9.0,9.0,10.0,Finished,300.0,-1.0
+2022,Abu Dhabi,Permanent,TSU,AlphaTauri,11.0,12.0,11.0,Finished,306.0,0.0
+2022,Abu Dhabi,Permanent,ZHO,Alfa Romeo,15.0,15.0,12.0,+1 Lap,324.0,
+2022,Abu Dhabi,Permanent,ALB,Williams,19.0,19.0,13.0,+1 Lap,314.0,
+2022,Abu Dhabi,Permanent,GAS,AlphaTauri,17.0,17.0,14.0,+1 Lap,305.0,
+2022,Abu Dhabi,Permanent,BOT,Alfa Romeo,18.0,18.0,15.0,+1 Lap,298.0,
+2022,Abu Dhabi,Permanent,MSC,Haas F1 Team,12.0,13.0,16.0,+1 Lap,327.0,
+2022,Abu Dhabi,Permanent,MAG,Haas F1 Team,16.0,16.0,17.0,+1 Lap,302.0,
+2022,Abu Dhabi,Permanent,HAM,Mercedes,5.0,5.0,18.0,Hydraulics,303.0,
+2022,Abu Dhabi,Permanent,LAT,Williams,20.0,20.0,19.0,Collision damage,310.0,
+2022,Abu Dhabi,Permanent,ALO,Alpine,10.0,11.0,20.0,Water leak,330.0,
+2023,Bahrain,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,306.0,0.0
+2023,Bahrain,Permanent,PER,Red Bull Racing,2.0,2.0,2.0,Finished,305.0,0.0
+2023,Bahrain,Permanent,ALO,Aston Martin,5.0,5.0,3.0,Finished,304.0,2.0
+2023,Bahrain,Permanent,SAI,Ferrari,4.0,4.0,4.0,Finished,308.0,0.0
+2023,Bahrain,Permanent,HAM,Mercedes,7.0,7.0,5.0,Finished,309.0,2.0
+2023,Bahrain,Permanent,STR,Aston Martin,8.0,8.0,6.0,Finished,305.0,2.0
+2023,Bahrain,Permanent,RUS,Mercedes,6.0,6.0,7.0,Finished,300.0,-1.0
+2023,Bahrain,Permanent,BOT,Alfa Romeo,12.0,12.0,8.0,Finished,301.0,4.0
+2023,Bahrain,Permanent,GAS,Alpine,20.0,20.0,9.0,Finished,330.0,11.0
+2023,Bahrain,Permanent,ALB,Williams,15.0,15.0,10.0,Finished,314.0,5.0
+2023,Bahrain,Permanent,TSU,AlphaTauri,14.0,14.0,11.0,Finished,331.0,3.0
+2023,Bahrain,Permanent,SAR,Williams,16.0,16.0,12.0,Lapped,310.0,
+2023,Bahrain,Permanent,MAG,Haas F1 Team,17.0,17.0,13.0,Lapped,308.0,
+2023,Bahrain,Permanent,DEV,AlphaTauri,19.0,19.0,14.0,Lapped,306.0,
+2023,Bahrain,Permanent,HUL,Haas F1 Team,10.0,10.0,15.0,Lapped,309.0,
+2023,Bahrain,Permanent,ZHO,Alfa Romeo,13.0,13.0,16.0,Lapped,302.0,
+2023,Bahrain,Permanent,NOR,McLaren,11.0,11.0,17.0,Lapped,303.0,
+2023,Bahrain,Permanent,OCO,Alpine,9.0,9.0,18.0,Retired,302.0,
+2023,Bahrain,Permanent,LEC,Ferrari,3.0,3.0,19.0,Retired,307.0,
+2023,Bahrain,Permanent,PIA,McLaren,18.0,18.0,20.0,Retired,,
+2023,Saudi Arabia,Street,PER,Red Bull Racing,1.0,1.0,1.0,Finished,317.0,0.0
+2023,Saudi Arabia,Street,VER,Red Bull Racing,15.0,15.0,2.0,Finished,316.0,13.0
+2023,Saudi Arabia,Street,ALO,Aston Martin,2.0,3.0,3.0,Finished,311.0,-1.0
+2023,Saudi Arabia,Street,RUS,Mercedes,3.0,4.0,4.0,Finished,311.0,-1.0
+2023,Saudi Arabia,Street,HAM,Mercedes,7.0,8.0,5.0,Finished,311.0,2.0
+2023,Saudi Arabia,Street,SAI,Ferrari,4.0,5.0,6.0,Finished,313.0,-2.0
+2023,Saudi Arabia,Street,LEC,Ferrari,12.0,2.0,7.0,Finished,314.0,5.0
+2023,Saudi Arabia,Street,OCO,Alpine,6.0,7.0,8.0,Finished,311.0,-2.0
+2023,Saudi Arabia,Street,GAS,Alpine,9.0,10.0,9.0,Finished,306.0,0.0
+2023,Saudi Arabia,Street,MAG,Haas F1 Team,13.0,13.0,10.0,Finished,329.0,3.0
+2023,Saudi Arabia,Street,TSU,AlphaTauri,16.0,16.0,11.0,Finished,312.0,5.0
+2023,Saudi Arabia,Street,HUL,Haas F1 Team,10.0,11.0,12.0,Finished,318.0,-2.0
+2023,Saudi Arabia,Street,ZHO,Alfa Romeo,11.0,12.0,13.0,Finished,309.0,-2.0
+2023,Saudi Arabia,Street,DEV,AlphaTauri,18.0,18.0,14.0,Finished,310.0,4.0
+2023,Saudi Arabia,Street,PIA,McLaren,8.0,9.0,15.0,Finished,335.0,-7.0
+2023,Saudi Arabia,Street,SAR,Williams,20.0,20.0,16.0,Finished,315.0,4.0
+2023,Saudi Arabia,Street,NOR,McLaren,19.0,19.0,17.0,Finished,325.0,2.0
+2023,Saudi Arabia,Street,BOT,Alfa Romeo,14.0,14.0,18.0,Lapped,305.0,
+2023,Saudi Arabia,Street,ALB,Williams,17.0,17.0,19.0,Retired,334.0,
+2023,Saudi Arabia,Street,STR,Aston Martin,5.0,6.0,20.0,Retired,329.0,
+2023,Australia,Hybrid,VER,Red Bull Racing,1.0,1.0,1.0,Finished,303.0,0.0
+2023,Australia,Hybrid,HAM,Mercedes,3.0,3.0,2.0,Finished,302.0,1.0
+2023,Australia,Hybrid,ALO,Aston Martin,4.0,4.0,3.0,Finished,303.0,1.0
+2023,Australia,Hybrid,STR,Aston Martin,6.0,6.0,4.0,Finished,318.0,2.0
+2023,Australia,Hybrid,PER,Red Bull Racing,20.0,20.0,5.0,Finished,309.0,15.0
+2023,Australia,Hybrid,NOR,McLaren,13.0,13.0,6.0,Finished,327.0,7.0
+2023,Australia,Hybrid,HUL,Haas F1 Team,10.0,10.0,7.0,Finished,327.0,3.0
+2023,Australia,Hybrid,PIA,McLaren,16.0,16.0,8.0,Finished,299.0,8.0
+2023,Australia,Hybrid,ZHO,Alfa Romeo,17.0,17.0,9.0,Finished,317.0,8.0
+2023,Australia,Hybrid,TSU,AlphaTauri,12.0,12.0,10.0,Finished,304.0,2.0
+2023,Australia,Hybrid,BOT,Alfa Romeo,19.0,19.0,11.0,Finished,299.0,8.0
+2023,Australia,Hybrid,SAI,Ferrari,5.0,5.0,12.0,Finished,306.0,-7.0
+2023,Australia,Hybrid,GAS,Alpine,9.0,9.0,13.0,Finished,323.0,-4.0
+2023,Australia,Hybrid,OCO,Alpine,11.0,11.0,14.0,Finished,305.0,-3.0
+2023,Australia,Hybrid,DEV,AlphaTauri,15.0,15.0,15.0,Finished,303.0,0.0
+2023,Australia,Hybrid,SAR,Williams,18.0,18.0,16.0,Finished,326.0,2.0
+2023,Australia,Hybrid,MAG,Haas F1 Team,14.0,14.0,17.0,Finished,303.0,-3.0
+2023,Australia,Hybrid,RUS,Mercedes,2.0,2.0,18.0,Retired,305.0,
+2023,Australia,Hybrid,ALB,Williams,8.0,8.0,19.0,Retired,312.0,
+2023,Australia,Hybrid,LEC,Ferrari,7.0,7.0,20.0,Retired,,
+2023,Azerbaijan,Street,PER,Red Bull Racing,3.0,,1.0,Finished,327.0,2.0
+2023,Azerbaijan,Street,VER,Red Bull Racing,2.0,,2.0,Finished,329.0,0.0
+2023,Azerbaijan,Street,LEC,Ferrari,1.0,,3.0,Finished,329.0,-2.0
+2023,Azerbaijan,Street,ALO,Aston Martin,6.0,,4.0,Finished,330.0,2.0
+2023,Azerbaijan,Street,SAI,Ferrari,4.0,,5.0,Finished,325.0,-1.0
+2023,Azerbaijan,Street,HAM,Mercedes,5.0,,6.0,Finished,327.0,-1.0
+2023,Azerbaijan,Street,STR,Aston Martin,9.0,,7.0,Finished,331.0,2.0
+2023,Azerbaijan,Street,RUS,Mercedes,11.0,,8.0,Finished,321.0,3.0
+2023,Azerbaijan,Street,NOR,McLaren,7.0,,9.0,Finished,323.0,-2.0
+2023,Azerbaijan,Street,TSU,AlphaTauri,8.0,,10.0,Finished,325.0,-2.0
+2023,Azerbaijan,Street,PIA,McLaren,10.0,,11.0,Finished,325.0,-1.0
+2023,Azerbaijan,Street,ALB,Williams,12.0,,12.0,Finished,329.0,0.0
+2023,Azerbaijan,Street,MAG,Haas F1 Team,16.0,,13.0,Finished,331.0,3.0
+2023,Azerbaijan,Street,GAS,Alpine,17.0,,14.0,Finished,328.0,3.0
+2023,Azerbaijan,Street,OCO,Alpine,19.0,,15.0,Finished,324.0,4.0
+2023,Azerbaijan,Street,SAR,Williams,14.0,,16.0,Finished,329.0,-2.0
+2023,Azerbaijan,Street,HUL,Haas F1 Team,20.0,,17.0,Lapped,332.0,
+2023,Azerbaijan,Street,BOT,Alfa Romeo,13.0,,18.0,Lapped,320.0,
+2023,Azerbaijan,Street,ZHO,Alfa Romeo,15.0,,19.0,Retired,323.0,
+2023,Azerbaijan,Street,DEV,AlphaTauri,18.0,,20.0,Retired,340.0,
+2023,Miami,Street,VER,Red Bull Racing,9.0,9.0,1.0,Finished,325.0,8.0
+2023,Miami,Street,PER,Red Bull Racing,1.0,1.0,2.0,Finished,326.0,-1.0
+2023,Miami,Street,ALO,Aston Martin,2.0,2.0,3.0,Finished,322.0,-1.0
+2023,Miami,Street,RUS,Mercedes,6.0,6.0,4.0,Finished,317.0,2.0
+2023,Miami,Street,SAI,Ferrari,3.0,3.0,5.0,Finished,319.0,-2.0
+2023,Miami,Street,HAM,Mercedes,13.0,13.0,6.0,Finished,318.0,7.0
+2023,Miami,Street,LEC,Ferrari,7.0,7.0,7.0,Finished,322.0,0.0
+2023,Miami,Street,GAS,Alpine,5.0,5.0,8.0,Finished,321.0,-3.0
+2023,Miami,Street,OCO,Alpine,8.0,8.0,9.0,Finished,320.0,-1.0
+2023,Miami,Street,MAG,Haas F1 Team,4.0,4.0,10.0,Finished,321.0,-6.0
+2023,Miami,Street,TSU,AlphaTauri,17.0,17.0,11.0,Finished,322.0,6.0
+2023,Miami,Street,STR,Aston Martin,18.0,18.0,12.0,Finished,325.0,6.0
+2023,Miami,Street,BOT,Alfa Romeo,10.0,10.0,13.0,Finished,318.0,-3.0
+2023,Miami,Street,ALB,Williams,11.0,11.0,14.0,Finished,341.0,-3.0
+2023,Miami,Street,HUL,Haas F1 Team,12.0,12.0,15.0,Finished,344.0,-3.0
+2023,Miami,Street,ZHO,Alfa Romeo,14.0,14.0,16.0,Finished,320.0,-2.0
+2023,Miami,Street,NOR,McLaren,16.0,16.0,17.0,Finished,321.0,-1.0
+2023,Miami,Street,DEV,AlphaTauri,15.0,15.0,18.0,Finished,321.0,-3.0
+2023,Miami,Street,PIA,McLaren,19.0,19.0,19.0,Lapped,317.0,
+2023,Miami,Street,SAR,Williams,20.0,20.0,20.0,Lapped,324.0,
+2023,Monaco,Street,VER,Red Bull Racing,1.0,1.0,1.0,Finished,270.0,0.0
+2023,Monaco,Street,ALO,Aston Martin,2.0,2.0,2.0,Finished,284.0,0.0
+2023,Monaco,Street,OCO,Alpine,3.0,4.0,3.0,Finished,283.0,0.0
+2023,Monaco,Street,HAM,Mercedes,5.0,6.0,4.0,Finished,287.0,1.0
+2023,Monaco,Street,RUS,Mercedes,8.0,8.0,5.0,Finished,285.0,3.0
+2023,Monaco,Street,LEC,Ferrari,6.0,3.0,6.0,Finished,286.0,0.0
+2023,Monaco,Street,GAS,Alpine,7.0,7.0,7.0,Finished,286.0,0.0
+2023,Monaco,Street,SAI,Ferrari,4.0,5.0,8.0,Finished,289.0,-4.0
+2023,Monaco,Street,NOR,McLaren,10.0,10.0,9.0,Lapped,285.0,
+2023,Monaco,Street,PIA,McLaren,11.0,11.0,10.0,Lapped,284.0,
+2023,Monaco,Street,BOT,Alfa Romeo,15.0,15.0,11.0,Lapped,283.0,
+2023,Monaco,Street,DEV,AlphaTauri,12.0,12.0,12.0,Lapped,285.0,
+2023,Monaco,Street,ZHO,Alfa Romeo,19.0,19.0,13.0,Lapped,285.0,
+2023,Monaco,Street,ALB,Williams,13.0,13.0,14.0,Lapped,287.0,
+2023,Monaco,Street,TSU,AlphaTauri,9.0,9.0,15.0,Lapped,281.0,
+2023,Monaco,Street,PER,Red Bull Racing,20.0,20.0,16.0,Lapped,284.0,
+2023,Monaco,Street,HUL,Haas F1 Team,18.0,18.0,17.0,Lapped,288.0,
+2023,Monaco,Street,SAR,Williams,16.0,16.0,18.0,Lapped,283.0,
+2023,Monaco,Street,MAG,Haas F1 Team,17.0,17.0,19.0,Finished,287.0,-2.0
+2023,Monaco,Street,STR,Aston Martin,14.0,14.0,20.0,Retired,282.0,
+2023,Spain,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,308.0,0.0
+2023,Spain,Permanent,HAM,Mercedes,4.0,5.0,2.0,Finished,327.0,2.0
+2023,Spain,Permanent,RUS,Mercedes,12.0,12.0,3.0,Finished,303.0,9.0
+2023,Spain,Permanent,PER,Red Bull Racing,11.0,11.0,4.0,Finished,306.0,7.0
+2023,Spain,Permanent,SAI,Ferrari,2.0,2.0,5.0,Finished,310.0,-3.0
+2023,Spain,Permanent,STR,Aston Martin,5.0,6.0,6.0,Finished,305.0,-1.0
+2023,Spain,Permanent,ALO,Aston Martin,8.0,9.0,7.0,Finished,327.0,1.0
+2023,Spain,Permanent,OCO,Alpine,6.0,7.0,8.0,Finished,312.0,-2.0
+2023,Spain,Permanent,ZHO,Alfa Romeo,13.0,13.0,9.0,Finished,302.0,4.0
+2023,Spain,Permanent,GAS,Alpine,10.0,4.0,10.0,Finished,311.0,0.0
+2023,Spain,Permanent,LEC,Ferrari,19.0,19.0,11.0,Finished,312.0,8.0
+2023,Spain,Permanent,TSU,AlphaTauri,15.0,15.0,12.0,Finished,308.0,3.0
+2023,Spain,Permanent,PIA,McLaren,9.0,10.0,13.0,Lapped,303.0,
+2023,Spain,Permanent,DEV,AlphaTauri,14.0,14.0,14.0,Lapped,327.0,
+2023,Spain,Permanent,HUL,Haas F1 Team,7.0,8.0,15.0,Lapped,310.0,
+2023,Spain,Permanent,ALB,Williams,18.0,18.0,16.0,Lapped,306.0,
+2023,Spain,Permanent,NOR,McLaren,3.0,3.0,17.0,Lapped,325.0,
+2023,Spain,Permanent,MAG,Haas F1 Team,17.0,17.0,18.0,Lapped,311.0,
+2023,Spain,Permanent,BOT,Alfa Romeo,16.0,16.0,19.0,Lapped,323.0,
+2023,Spain,Permanent,SAR,Williams,20.0,20.0,20.0,Lapped,309.0,
+2023,Canada,Hybrid,VER,Red Bull Racing,1.0,1.0,1.0,Finished,311.0,0.0
+2023,Canada,Hybrid,ALO,Aston Martin,2.0,3.0,2.0,Finished,306.0,0.0
+2023,Canada,Hybrid,HAM,Mercedes,3.0,4.0,3.0,Finished,305.0,0.0
+2023,Canada,Hybrid,LEC,Ferrari,10.0,11.0,4.0,Finished,310.0,6.0
+2023,Canada,Hybrid,SAI,Ferrari,11.0,8.0,5.0,Finished,311.0,6.0
+2023,Canada,Hybrid,PER,Red Bull Racing,12.0,12.0,6.0,Finished,306.0,6.0
+2023,Canada,Hybrid,ALB,Williams,9.0,10.0,7.0,Finished,312.0,2.0
+2023,Canada,Hybrid,OCO,Alpine,6.0,6.0,8.0,Finished,327.0,-2.0
+2023,Canada,Hybrid,STR,Aston Martin,16.0,13.0,9.0,Finished,332.0,7.0
+2023,Canada,Hybrid,BOT,Alfa Romeo,14.0,15.0,10.0,Finished,325.0,4.0
+2023,Canada,Hybrid,PIA,McLaren,8.0,9.0,11.0,Finished,311.0,-3.0
+2023,Canada,Hybrid,GAS,Alpine,15.0,17.0,12.0,Finished,333.0,3.0
+2023,Canada,Hybrid,NOR,McLaren,7.0,7.0,13.0,Finished,332.0,-6.0
+2023,Canada,Hybrid,TSU,AlphaTauri,19.0,16.0,14.0,Finished,313.0,5.0
+2023,Canada,Hybrid,HUL,Haas F1 Team,5.0,2.0,15.0,Lapped,306.0,
+2023,Canada,Hybrid,ZHO,Alfa Romeo,20.0,20.0,16.0,Lapped,312.0,
+2023,Canada,Hybrid,MAG,Haas F1 Team,13.0,14.0,17.0,Lapped,327.0,
+2023,Canada,Hybrid,DEV,AlphaTauri,17.0,18.0,18.0,Lapped,311.0,
+2023,Canada,Hybrid,RUS,Mercedes,4.0,5.0,19.0,Retired,308.0,
+2023,Canada,Hybrid,SAR,Williams,18.0,19.0,20.0,Retired,337.0,
+2023,Austria,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,308.0,0.0
+2023,Austria,Permanent,LEC,Ferrari,2.0,2.0,2.0,Finished,303.0,0.0
+2023,Austria,Permanent,PER,Red Bull Racing,15.0,15.0,3.0,Finished,305.0,12.0
+2023,Austria,Permanent,NOR,McLaren,4.0,4.0,4.0,Finished,319.0,0.0
+2023,Austria,Permanent,ALO,Aston Martin,7.0,7.0,5.0,Finished,300.0,2.0
+2023,Austria,Permanent,SAI,Ferrari,3.0,3.0,6.0,Finished,302.0,-3.0
+2023,Austria,Permanent,RUS,Mercedes,11.0,11.0,7.0,Finished,299.0,4.0
+2023,Austria,Permanent,HAM,Mercedes,5.0,5.0,8.0,Finished,302.0,-3.0
+2023,Austria,Permanent,STR,Aston Martin,6.0,6.0,9.0,Finished,302.0,-3.0
+2023,Austria,Permanent,GAS,Alpine,9.0,9.0,10.0,Finished,297.0,-1.0
+2023,Austria,Permanent,ALB,Williams,10.0,10.0,11.0,Finished,304.0,-1.0
+2023,Austria,Permanent,ZHO,Alfa Romeo,17.0,17.0,12.0,Lapped,300.0,
+2023,Austria,Permanent,SAR,Williams,18.0,18.0,13.0,Lapped,321.0,
+2023,Austria,Permanent,OCO,Alpine,12.0,12.0,14.0,Lapped,296.0,
+2023,Austria,Permanent,BOT,Alfa Romeo,14.0,14.0,15.0,Lapped,319.0,
+2023,Austria,Permanent,PIA,McLaren,13.0,13.0,16.0,Lapped,301.0,
+2023,Austria,Permanent,DEV,AlphaTauri,20.0,20.0,17.0,Lapped,315.0,
+2023,Austria,Permanent,MAG,Haas F1 Team,19.0,19.0,18.0,Lapped,298.0,
+2023,Austria,Permanent,TSU,AlphaTauri,16.0,16.0,19.0,Lapped,300.0,
+2023,Austria,Permanent,HUL,Haas F1 Team,8.0,8.0,20.0,Retired,315.0,
+2023,United Kingdom,Permanent,VER,Red Bull Racing,6.0,6.0,1.0,Finished,298.0,5.0
+2023,United Kingdom,Permanent,NOR,McLaren,2.0,2.0,2.0,Finished,333.0,0.0
+2023,United Kingdom,Permanent,SAI,Ferrari,4.0,4.0,3.0,Finished,305.0,1.0
+2023,United Kingdom,Permanent,PER,Red Bull Racing,9.0,9.0,4.0,Finished,300.0,5.0
+2023,United Kingdom,Permanent,RUS,Mercedes,5.0,5.0,5.0,Finished,293.0,0.0
+2023,United Kingdom,Permanent,GAS,Alpine,7.0,7.0,6.0,Finished,299.0,1.0
+2023,United Kingdom,Permanent,STR,Aston Martin,20.0,19.0,7.0,Finished,320.0,13.0
+2023,United Kingdom,Permanent,TSU,AlphaTauri,11.0,11.0,8.0,Finished,303.0,3.0
+2023,United Kingdom,Permanent,ALB,Williams,15.0,18.0,9.0,Finished,304.0,6.0
+2023,United Kingdom,Permanent,SAR,Williams,16.0,20.0,10.0,Finished,321.0,6.0
+2023,United Kingdom,Permanent,HUL,Haas F1 Team,18.0,16.0,11.0,Finished,303.0,7.0
+2023,United Kingdom,Permanent,BOT,Alfa Romeo,13.0,13.0,12.0,Finished,300.0,1.0
+2023,United Kingdom,Permanent,ZHO,Alfa Romeo,12.0,12.0,13.0,Lapped,299.0,
+2023,United Kingdom,Permanent,MAG,Haas F1 Team,17.0,14.0,14.0,Lapped,302.0,
+2023,United Kingdom,Permanent,RIC,AlphaTauri,14.0,15.0,15.0,Lapped,300.0,
+2023,United Kingdom,Permanent,ALO,Aston Martin,19.0,17.0,16.0,Retired,302.0,
+2023,United Kingdom,Permanent,PIA,McLaren,10.0,10.0,17.0,Retired,301.0,
+2023,United Kingdom,Permanent,OCO,Alpine,8.0,8.0,18.0,Retired,300.0,
+2023,United Kingdom,Permanent,HAM,Mercedes,3.0,3.0,19.0,Disqualified,297.0,
+2023,United Kingdom,Permanent,LEC,Ferrari,1.0,1.0,20.0,Disqualified,302.0,
+2023,Hungary,Permanent,VER,Red Bull Racing,2.0,2.0,1.0,Finished,301.0,1.0
+2023,Hungary,Permanent,NOR,McLaren,3.0,3.0,2.0,Finished,316.0,1.0
+2023,Hungary,Permanent,PER,Red Bull Racing,9.0,9.0,3.0,Finished,301.0,6.0
+2023,Hungary,Permanent,HAM,Mercedes,1.0,1.0,4.0,Finished,293.0,-3.0
+2023,Hungary,Permanent,PIA,McLaren,4.0,4.0,5.0,Finished,316.0,-1.0
+2023,Hungary,Permanent,RUS,Mercedes,18.0,18.0,6.0,Finished,294.0,12.0
+2023,Hungary,Permanent,LEC,Ferrari,6.0,6.0,7.0,Finished,299.0,-1.0
+2023,Hungary,Permanent,SAI,Ferrari,11.0,11.0,8.0,Finished,298.0,3.0
+2023,Hungary,Permanent,ALO,Aston Martin,8.0,8.0,9.0,Finished,303.0,-1.0
+2023,Hungary,Permanent,STR,Aston Martin,14.0,14.0,10.0,Lapped,301.0,
+2023,Hungary,Permanent,ALB,Williams,16.0,16.0,11.0,Lapped,301.0,
+2023,Hungary,Permanent,BOT,Alfa Romeo,7.0,7.0,12.0,Lapped,299.0,
+2023,Hungary,Permanent,RIC,AlphaTauri,13.0,13.0,13.0,Lapped,298.0,
+2023,Hungary,Permanent,HUL,Haas F1 Team,10.0,10.0,14.0,Lapped,318.0,
+2023,Hungary,Permanent,TSU,AlphaTauri,17.0,17.0,15.0,Lapped,298.0,
+2023,Hungary,Permanent,ZHO,Alfa Romeo,5.0,5.0,16.0,Lapped,292.0,
+2023,Hungary,Permanent,MAG,Haas F1 Team,19.0,19.0,17.0,Lapped,299.0,
+2023,Hungary,Permanent,SAR,Williams,20.0,20.0,18.0,Finished,301.0,2.0
+2023,Hungary,Permanent,OCO,Alpine,12.0,12.0,19.0,Retired,,
+2023,Hungary,Permanent,GAS,Alpine,15.0,15.0,20.0,Retired,,
+2023,Belgium,Permanent,VER,Red Bull Racing,6.0,1.0,1.0,Finished,316.0,5.0
+2023,Belgium,Permanent,PER,Red Bull Racing,2.0,3.0,2.0,Finished,317.0,0.0
+2023,Belgium,Permanent,LEC,Ferrari,1.0,2.0,3.0,Finished,319.0,-2.0
+2023,Belgium,Permanent,HAM,Mercedes,3.0,4.0,4.0,Finished,320.0,-1.0
+2023,Belgium,Permanent,ALO,Aston Martin,9.0,9.0,5.0,Finished,316.0,4.0
+2023,Belgium,Permanent,RUS,Mercedes,8.0,8.0,6.0,Finished,328.0,2.0
+2023,Belgium,Permanent,NOR,McLaren,7.0,7.0,7.0,Finished,312.0,0.0
+2023,Belgium,Permanent,OCO,Alpine,14.0,15.0,8.0,Finished,321.0,6.0
+2023,Belgium,Permanent,STR,Aston Martin,10.0,10.0,9.0,Finished,316.0,1.0
+2023,Belgium,Permanent,TSU,AlphaTauri,11.0,11.0,10.0,Finished,321.0,1.0
+2023,Belgium,Permanent,GAS,Alpine,12.0,12.0,11.0,Finished,323.0,1.0
+2023,Belgium,Permanent,BOT,Alfa Romeo,13.0,14.0,12.0,Finished,319.0,1.0
+2023,Belgium,Permanent,ZHO,Alfa Romeo,17.0,17.0,13.0,Finished,325.0,4.0
+2023,Belgium,Permanent,ALB,Williams,15.0,16.0,14.0,Finished,330.0,1.0
+2023,Belgium,Permanent,MAG,Haas F1 Team,16.0,13.0,15.0,Finished,320.0,1.0
+2023,Belgium,Permanent,RIC,AlphaTauri,19.0,19.0,16.0,Finished,337.0,3.0
+2023,Belgium,Permanent,SAR,Williams,18.0,18.0,17.0,Finished,331.0,1.0
+2023,Belgium,Permanent,HUL,Haas F1 Team,20.0,20.0,18.0,Finished,332.0,2.0
+2023,Belgium,Permanent,SAI,Ferrari,4.0,5.0,19.0,Retired,321.0,
+2023,Belgium,Permanent,PIA,McLaren,5.0,6.0,20.0,Retired,,
+2023,Netherlands,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,304.0,0.0
+2023,Netherlands,Permanent,ALO,Aston Martin,5.0,5.0,2.0,Finished,303.0,3.0
+2023,Netherlands,Permanent,GAS,Alpine,12.0,12.0,3.0,Finished,305.0,9.0
+2023,Netherlands,Permanent,PER,Red Bull Racing,7.0,7.0,4.0,Finished,302.0,3.0
+2023,Netherlands,Permanent,SAI,Ferrari,6.0,6.0,5.0,Finished,310.0,1.0
+2023,Netherlands,Permanent,HAM,Mercedes,13.0,13.0,6.0,Finished,325.0,7.0
+2023,Netherlands,Permanent,NOR,McLaren,2.0,2.0,7.0,Finished,305.0,-5.0
+2023,Netherlands,Permanent,ALB,Williams,4.0,4.0,8.0,Finished,308.0,-4.0
+2023,Netherlands,Permanent,PIA,McLaren,8.0,8.0,9.0,Finished,303.0,-1.0
+2023,Netherlands,Permanent,OCO,Alpine,16.0,17.0,10.0,Finished,302.0,6.0
+2023,Netherlands,Permanent,STR,Aston Martin,11.0,11.0,11.0,Finished,302.0,0.0
+2023,Netherlands,Permanent,HUL,Haas F1 Team,14.0,15.0,12.0,Finished,302.0,2.0
+2023,Netherlands,Permanent,LAW,AlphaTauri,19.0,20.0,13.0,Finished,299.0,6.0
+2023,Netherlands,Permanent,BOT,Alfa Romeo,18.0,19.0,14.0,Finished,297.0,4.0
+2023,Netherlands,Permanent,TSU,AlphaTauri,17.0,14.0,15.0,Finished,297.0,2.0
+2023,Netherlands,Permanent,MAG,Haas F1 Team,0.0,18.0,16.0,Finished,300.0,-16.0
+2023,Netherlands,Permanent,RUS,Mercedes,3.0,3.0,17.0,Finished,299.0,-14.0
+2023,Netherlands,Permanent,ZHO,Alfa Romeo,15.0,16.0,18.0,Accident,298.0,
+2023,Netherlands,Permanent,LEC,Ferrari,9.0,9.0,19.0,Undertray,311.0,
+2023,Netherlands,Permanent,SAR,Williams,10.0,10.0,20.0,Accident,299.0,
+2023,Italy,Permanent,VER,Red Bull Racing,2.0,2.0,1.0,Finished,329.0,1.0
+2023,Italy,Permanent,PER,Red Bull Racing,5.0,5.0,2.0,Finished,331.0,3.0
+2023,Italy,Permanent,SAI,Ferrari,1.0,1.0,3.0,Finished,327.0,-2.0
+2023,Italy,Permanent,LEC,Ferrari,3.0,3.0,4.0,Finished,340.0,-1.0
+2023,Italy,Permanent,RUS,Mercedes,4.0,4.0,5.0,Finished,332.0,-1.0
+2023,Italy,Permanent,HAM,Mercedes,8.0,8.0,6.0,Finished,348.0,2.0
+2023,Italy,Permanent,ALB,Williams,6.0,6.0,7.0,Finished,328.0,-1.0
+2023,Italy,Permanent,NOR,McLaren,9.0,9.0,8.0,Finished,332.0,1.0
+2023,Italy,Permanent,ALO,Aston Martin,10.0,10.0,9.0,Finished,334.0,1.0
+2023,Italy,Permanent,BOT,Alfa Romeo,14.0,14.0,10.0,Finished,327.0,4.0
+2023,Italy,Permanent,LAW,AlphaTauri,12.0,12.0,11.0,Finished,331.0,1.0
+2023,Italy,Permanent,PIA,McLaren,7.0,7.0,12.0,Finished,323.0,-5.0
+2023,Italy,Permanent,SAR,Williams,15.0,15.0,13.0,Finished,330.0,2.0
+2023,Italy,Permanent,ZHO,Alfa Romeo,16.0,16.0,14.0,Finished,331.0,2.0
+2023,Italy,Permanent,GAS,Alpine,17.0,17.0,15.0,Finished,326.0,2.0
+2023,Italy,Permanent,STR,Aston Martin,20.0,20.0,16.0,Finished,332.0,4.0
+2023,Italy,Permanent,HUL,Haas F1 Team,13.0,13.0,17.0,Lapped,327.0,
+2023,Italy,Permanent,MAG,Haas F1 Team,19.0,19.0,18.0,Lapped,334.0,
+2023,Italy,Permanent,OCO,Alpine,18.0,18.0,19.0,Retired,344.0,
+2023,Italy,Permanent,TSU,AlphaTauri,11.0,11.0,20.0,Did not start,,
+2023,Singapore,Street,SAI,Ferrari,1.0,1.0,1.0,Finished,290.0,0.0
+2023,Singapore,Street,NOR,McLaren,4.0,4.0,2.0,Finished,295.0,2.0
+2023,Singapore,Street,HAM,Mercedes,5.0,5.0,3.0,Finished,292.0,2.0
+2023,Singapore,Street,LEC,Ferrari,3.0,3.0,4.0,Finished,295.0,-1.0
+2023,Singapore,Street,VER,Red Bull Racing,11.0,11.0,5.0,Finished,293.0,6.0
+2023,Singapore,Street,GAS,Alpine,12.0,12.0,6.0,Finished,287.0,6.0
+2023,Singapore,Street,PIA,McLaren,17.0,17.0,7.0,Finished,291.0,10.0
+2023,Singapore,Street,PER,Red Bull Racing,13.0,13.0,8.0,Finished,294.0,5.0
+2023,Singapore,Street,LAW,AlphaTauri,10.0,10.0,9.0,Finished,292.0,1.0
+2023,Singapore,Street,MAG,Haas F1 Team,6.0,6.0,10.0,Finished,294.0,-4.0
+2023,Singapore,Street,ALB,Williams,14.0,14.0,11.0,Finished,296.0,3.0
+2023,Singapore,Street,ZHO,Alfa Romeo,19.0,19.0,12.0,Finished,294.0,7.0
+2023,Singapore,Street,HUL,Haas F1 Team,9.0,9.0,13.0,Finished,296.0,-4.0
+2023,Singapore,Street,SAR,Williams,18.0,18.0,14.0,Finished,300.0,4.0
+2023,Singapore,Street,ALO,Aston Martin,7.0,7.0,15.0,Finished,295.0,-8.0
+2023,Singapore,Street,RUS,Mercedes,2.0,2.0,16.0,Finished,289.0,-14.0
+2023,Singapore,Street,BOT,Alfa Romeo,16.0,16.0,17.0,Retired,289.0,
+2023,Singapore,Street,OCO,Alpine,8.0,8.0,18.0,Retired,304.0,
+2023,Singapore,Street,TSU,AlphaTauri,15.0,15.0,19.0,Retired,,
+2023,Singapore,Street,STR,Aston Martin,,20.0,,Withdrew,,
+2023,Japan,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,306.0,0.0
+2023,Japan,Permanent,NOR,McLaren,3.0,3.0,2.0,Finished,305.0,1.0
+2023,Japan,Permanent,PIA,McLaren,2.0,2.0,3.0,Finished,309.0,-1.0
+2023,Japan,Permanent,LEC,Ferrari,4.0,4.0,4.0,Finished,308.0,0.0
+2023,Japan,Permanent,HAM,Mercedes,7.0,7.0,5.0,Finished,303.0,2.0
+2023,Japan,Permanent,SAI,Ferrari,6.0,6.0,6.0,Finished,304.0,0.0
+2023,Japan,Permanent,RUS,Mercedes,8.0,8.0,7.0,Finished,304.0,1.0
+2023,Japan,Permanent,ALO,Aston Martin,10.0,10.0,8.0,Finished,307.0,2.0
+2023,Japan,Permanent,OCO,Alpine,14.0,14.0,9.0,Finished,308.0,5.0
+2023,Japan,Permanent,GAS,Alpine,12.0,12.0,10.0,Finished,320.0,2.0
+2023,Japan,Permanent,LAW,AlphaTauri,11.0,11.0,11.0,Lapped,302.0,
+2023,Japan,Permanent,TSU,AlphaTauri,9.0,9.0,12.0,Lapped,304.0,
+2023,Japan,Permanent,ZHO,Alfa Romeo,19.0,19.0,13.0,Lapped,303.0,
+2023,Japan,Permanent,HUL,Haas F1 Team,18.0,18.0,14.0,Lapped,307.0,
+2023,Japan,Permanent,MAG,Haas F1 Team,15.0,15.0,15.0,Lapped,305.0,
+2023,Japan,Permanent,ALB,Williams,13.0,13.0,16.0,Retired,308.0,
+2023,Japan,Permanent,SAR,Williams,20.0,20.0,17.0,Retired,307.0,
+2023,Japan,Permanent,STR,Aston Martin,17.0,17.0,18.0,Retired,313.0,
+2023,Japan,Permanent,PER,Red Bull Racing,5.0,5.0,19.0,Retired,320.0,
+2023,Japan,Permanent,BOT,Alfa Romeo,16.0,16.0,20.0,Retired,,
+2023,Qatar,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,329.0,0.0
+2023,Qatar,Permanent,PIA,McLaren,6.0,6.0,2.0,Finished,308.0,4.0
+2023,Qatar,Permanent,NOR,McLaren,10.0,10.0,3.0,Finished,309.0,7.0
+2023,Qatar,Permanent,RUS,Mercedes,2.0,2.0,4.0,Finished,325.0,-2.0
+2023,Qatar,Permanent,LEC,Ferrari,5.0,5.0,5.0,Finished,307.0,0.0
+2023,Qatar,Permanent,ALO,Aston Martin,4.0,4.0,6.0,Finished,309.0,-2.0
+2023,Qatar,Permanent,OCO,Alpine,8.0,8.0,7.0,Finished,300.0,1.0
+2023,Qatar,Permanent,BOT,Alfa Romeo,9.0,9.0,8.0,Finished,299.0,1.0
+2023,Qatar,Permanent,ZHO,Alfa Romeo,19.0,20.0,9.0,Finished,303.0,10.0
+2023,Qatar,Permanent,PER,Red Bull Racing,20.0,13.0,10.0,Finished,305.0,10.0
+2023,Qatar,Permanent,STR,Aston Martin,16.0,17.0,11.0,Finished,308.0,5.0
+2023,Qatar,Permanent,GAS,Alpine,7.0,7.0,12.0,Finished,303.0,-5.0
+2023,Qatar,Permanent,ALB,Williams,13.0,14.0,13.0,Finished,308.0,0.0
+2023,Qatar,Permanent,MAG,Haas F1 Team,18.0,19.0,14.0,Lapped,325.0,
+2023,Qatar,Permanent,TSU,AlphaTauri,11.0,11.0,15.0,Lapped,308.0,
+2023,Qatar,Permanent,HUL,Haas F1 Team,14.0,15.0,16.0,Lapped,335.0,
+2023,Qatar,Permanent,LAW,AlphaTauri,17.0,18.0,17.0,Lapped,299.0,
+2023,Qatar,Permanent,SAR,Williams,15.0,16.0,18.0,Retired,312.0,
+2023,Qatar,Permanent,HAM,Mercedes,3.0,3.0,19.0,Retired,,
+2023,Qatar,Permanent,SAI,Ferrari,12.0,12.0,20.0,Did not start,,
+2023,United States,Permanent,VER,Red Bull Racing,6.0,6.0,1.0,Finished,298.0,5.0
+2023,United States,Permanent,NOR,McLaren,2.0,2.0,2.0,Finished,333.0,0.0
+2023,United States,Permanent,SAI,Ferrari,4.0,4.0,3.0,Finished,305.0,1.0
+2023,United States,Permanent,PER,Red Bull Racing,9.0,9.0,4.0,Finished,300.0,5.0
+2023,United States,Permanent,RUS,Mercedes,5.0,5.0,5.0,Finished,293.0,0.0
+2023,United States,Permanent,GAS,Alpine,7.0,7.0,6.0,Finished,299.0,1.0
+2023,United States,Permanent,STR,Aston Martin,20.0,19.0,7.0,Finished,320.0,13.0
+2023,United States,Permanent,TSU,AlphaTauri,11.0,11.0,8.0,Finished,303.0,3.0
+2023,United States,Permanent,ALB,Williams,15.0,18.0,9.0,Finished,304.0,6.0
+2023,United States,Permanent,SAR,Williams,16.0,20.0,10.0,Finished,321.0,6.0
+2023,United States,Permanent,HUL,Haas F1 Team,18.0,16.0,11.0,Finished,303.0,7.0
+2023,United States,Permanent,BOT,Alfa Romeo,13.0,13.0,12.0,Finished,300.0,1.0
+2023,United States,Permanent,ZHO,Alfa Romeo,12.0,12.0,13.0,Lapped,299.0,
+2023,United States,Permanent,MAG,Haas F1 Team,17.0,14.0,14.0,Lapped,302.0,
+2023,United States,Permanent,RIC,AlphaTauri,14.0,15.0,15.0,Lapped,300.0,
+2023,United States,Permanent,ALO,Aston Martin,19.0,17.0,16.0,Retired,302.0,
+2023,United States,Permanent,PIA,McLaren,10.0,10.0,17.0,Retired,301.0,
+2023,United States,Permanent,OCO,Alpine,8.0,8.0,18.0,Retired,300.0,
+2023,United States,Permanent,HAM,Mercedes,3.0,3.0,19.0,Disqualified,297.0,
+2023,United States,Permanent,LEC,Ferrari,1.0,1.0,20.0,Disqualified,302.0,
+2023,Mexico City,Permanent,VER,Red Bull Racing,3.0,3.0,1.0,Finished,325.0,2.0
+2023,Mexico City,Permanent,HAM,Mercedes,6.0,6.0,2.0,Finished,323.0,4.0
+2023,Mexico City,Permanent,LEC,Ferrari,1.0,1.0,3.0,Finished,328.0,-2.0
+2023,Mexico City,Permanent,SAI,Ferrari,2.0,2.0,4.0,Finished,330.0,-2.0
+2023,Mexico City,Permanent,NOR,McLaren,17.0,19.0,5.0,Finished,326.0,12.0
+2023,Mexico City,Permanent,RUS,Mercedes,8.0,8.0,6.0,Finished,326.0,2.0
+2023,Mexico City,Permanent,RIC,AlphaTauri,4.0,4.0,7.0,Finished,329.0,-3.0
+2023,Mexico City,Permanent,PIA,McLaren,7.0,7.0,8.0,Finished,328.0,-1.0
+2023,Mexico City,Permanent,ALB,Williams,14.0,14.0,9.0,Finished,329.0,5.0
+2023,Mexico City,Permanent,OCO,Alpine,15.0,16.0,10.0,Finished,346.0,5.0
+2023,Mexico City,Permanent,GAS,Alpine,11.0,11.0,11.0,Finished,348.0,0.0
+2023,Mexico City,Permanent,TSU,AlphaTauri,18.0,15.0,12.0,Finished,323.0,6.0
+2023,Mexico City,Permanent,HUL,Haas F1 Team,12.0,12.0,13.0,Finished,351.0,-1.0
+2023,Mexico City,Permanent,ZHO,Alfa Romeo,10.0,10.0,14.0,Finished,333.0,-4.0
+2023,Mexico City,Permanent,BOT,Alfa Romeo,9.0,9.0,15.0,Finished,353.0,-6.0
+2023,Mexico City,Permanent,SAR,Williams,19.0,20.0,16.0,Retired,326.0,
+2023,Mexico City,Permanent,STR,Aston Martin,0.0,18.0,17.0,Collision damage,338.0,
+2023,Mexico City,Permanent,ALO,Aston Martin,13.0,13.0,18.0,Withdrew,345.0,
+2023,Mexico City,Permanent,MAG,Haas F1 Team,16.0,17.0,19.0,Accident,331.0,
+2023,Mexico City,Permanent,PER,Red Bull Racing,5.0,5.0,20.0,Collision damage,,
+2023,São Paulo,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,307.0,0.0
+2023,São Paulo,Permanent,NOR,McLaren,6.0,7.0,2.0,Finished,307.0,4.0
+2023,São Paulo,Permanent,ALO,Aston Martin,4.0,4.0,3.0,Finished,304.0,1.0
+2023,São Paulo,Permanent,PER,Red Bull Racing,9.0,9.0,4.0,Finished,324.0,5.0
+2023,São Paulo,Permanent,STR,Aston Martin,3.0,3.0,5.0,Finished,307.0,-2.0
+2023,São Paulo,Permanent,SAI,Ferrari,7.0,8.0,6.0,Finished,307.0,1.0
+2023,São Paulo,Permanent,GAS,Alpine,15.0,13.0,7.0,Finished,323.0,8.0
+2023,São Paulo,Permanent,HAM,Mercedes,5.0,5.0,8.0,Finished,302.0,-3.0
+2023,São Paulo,Permanent,TSU,AlphaTauri,16.0,16.0,9.0,Finished,308.0,7.0
+2023,São Paulo,Permanent,OCO,Alpine,14.0,12.0,10.0,Lapped,328.0,
+2023,São Paulo,Permanent,SAR,Williams,19.0,19.0,11.0,Lapped,304.0,
+2023,São Paulo,Permanent,HUL,Haas F1 Team,11.0,11.0,12.0,Lapped,305.0,
+2023,São Paulo,Permanent,RIC,AlphaTauri,17.0,17.0,13.0,Lapped,308.0,
+2023,São Paulo,Permanent,PIA,McLaren,10.0,10.0,14.0,Lapped,305.0,
+2023,São Paulo,Permanent,RUS,Mercedes,8.0,6.0,15.0,Retired,300.0,
+2023,São Paulo,Permanent,BOT,Alfa Romeo,18.0,18.0,16.0,Retired,320.0,
+2023,São Paulo,Permanent,ZHO,Alfa Romeo,20.0,20.0,17.0,Retired,299.0,
+2023,São Paulo,Permanent,MAG,Haas F1 Team,12.0,14.0,18.0,Retired,,
+2023,São Paulo,Permanent,ALB,Williams,13.0,15.0,19.0,Retired,,
+2023,São Paulo,Permanent,LEC,Ferrari,2.0,2.0,20.0,Did not start,,
+2023,Las Vegas,Hybrid,VER,Red Bull Racing,2.0,3.0,1.0,Finished,328.0,1.0
+2023,Las Vegas,Hybrid,LEC,Ferrari,1.0,1.0,2.0,Finished,354.0,-1.0
+2023,Las Vegas,Hybrid,PER,Red Bull Racing,11.0,12.0,3.0,Finished,350.0,8.0
+2023,Las Vegas,Hybrid,OCO,Alpine,16.0,17.0,4.0,Finished,331.0,12.0
+2023,Las Vegas,Hybrid,STR,Aston Martin,19.0,14.0,5.0,Finished,331.0,14.0
+2023,Las Vegas,Hybrid,SAI,Ferrari,12.0,2.0,6.0,Finished,336.0,6.0
+2023,Las Vegas,Hybrid,HAM,Mercedes,10.0,11.0,7.0,Finished,340.0,3.0
+2023,Las Vegas,Hybrid,RUS,Mercedes,3.0,4.0,8.0,Finished,335.0,-5.0
+2023,Las Vegas,Hybrid,ALO,Aston Martin,9.0,10.0,9.0,Finished,347.0,0.0
+2023,Las Vegas,Hybrid,PIA,McLaren,18.0,19.0,10.0,Finished,336.0,8.0
+2023,Las Vegas,Hybrid,GAS,Alpine,4.0,5.0,11.0,Finished,342.0,-7.0
+2023,Las Vegas,Hybrid,ALB,Williams,5.0,6.0,12.0,Finished,337.0,-7.0
+2023,Las Vegas,Hybrid,MAG,Haas F1 Team,8.0,9.0,13.0,Finished,335.0,-5.0
+2023,Las Vegas,Hybrid,RIC,AlphaTauri,14.0,15.0,14.0,Finished,333.0,0.0
+2023,Las Vegas,Hybrid,ZHO,Alfa Romeo,17.0,18.0,15.0,Finished,349.0,2.0
+2023,Las Vegas,Hybrid,SAR,Williams,6.0,7.0,16.0,Finished,356.0,-10.0
+2023,Las Vegas,Hybrid,BOT,Alfa Romeo,7.0,8.0,17.0,Finished,331.0,-10.0
+2023,Las Vegas,Hybrid,TSU,AlphaTauri,20.0,20.0,18.0,Finished,334.0,2.0
+2023,Las Vegas,Hybrid,HUL,Haas F1 Team,13.0,13.0,19.0,Finished,332.0,-6.0
+2023,Las Vegas,Hybrid,NOR,McLaren,15.0,16.0,20.0,Retired,,
+2023,Abu Dhabi,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,304.0,0.0
+2023,Abu Dhabi,Permanent,LEC,Ferrari,2.0,2.0,2.0,Finished,309.0,0.0
+2023,Abu Dhabi,Permanent,RUS,Mercedes,4.0,4.0,3.0,Finished,310.0,1.0
+2023,Abu Dhabi,Permanent,PER,Red Bull Racing,9.0,9.0,4.0,Finished,333.0,5.0
+2023,Abu Dhabi,Permanent,NOR,McLaren,5.0,5.0,5.0,Finished,310.0,0.0
+2023,Abu Dhabi,Permanent,PIA,McLaren,3.0,3.0,6.0,Finished,313.0,-3.0
+2023,Abu Dhabi,Permanent,ALO,Aston Martin,7.0,7.0,7.0,Finished,321.0,0.0
+2023,Abu Dhabi,Permanent,TSU,AlphaTauri,6.0,6.0,8.0,Finished,305.0,-2.0
+2023,Abu Dhabi,Permanent,HAM,Mercedes,11.0,11.0,9.0,Finished,309.0,2.0
+2023,Abu Dhabi,Permanent,STR,Aston Martin,13.0,13.0,10.0,Finished,304.0,3.0
+2023,Abu Dhabi,Permanent,RIC,AlphaTauri,15.0,15.0,11.0,Finished,308.0,4.0
+2023,Abu Dhabi,Permanent,OCO,Alpine,12.0,12.0,12.0,Finished,324.0,0.0
+2023,Abu Dhabi,Permanent,GAS,Alpine,10.0,10.0,13.0,Finished,302.0,-3.0
+2023,Abu Dhabi,Permanent,ALB,Williams,14.0,14.0,14.0,Finished,327.0,0.0
+2023,Abu Dhabi,Permanent,HUL,Haas F1 Team,8.0,8.0,15.0,Finished,305.0,-7.0
+2023,Abu Dhabi,Permanent,SAR,Williams,20.0,20.0,16.0,Finished,311.0,4.0
+2023,Abu Dhabi,Permanent,ZHO,Alfa Romeo,19.0,19.0,17.0,Finished,327.0,2.0
+2023,Abu Dhabi,Permanent,SAI,Ferrari,16.0,16.0,18.0,Finished,305.0,-2.0
+2023,Abu Dhabi,Permanent,BOT,Alfa Romeo,18.0,18.0,19.0,Lapped,305.0,
+2023,Abu Dhabi,Permanent,MAG,Haas F1 Team,17.0,17.0,20.0,Lapped,310.0,
+2024,Bahrain,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,301.0,0.0
+2024,Bahrain,Permanent,PER,Red Bull Racing,5.0,5.0,2.0,Finished,303.0,3.0
+2024,Bahrain,Permanent,SAI,Ferrari,4.0,4.0,3.0,Finished,303.0,1.0
+2024,Bahrain,Permanent,LEC,Ferrari,2.0,2.0,4.0,Finished,324.0,-2.0
+2024,Bahrain,Permanent,RUS,Mercedes,3.0,3.0,5.0,Finished,303.0,-2.0
+2024,Bahrain,Permanent,NOR,McLaren,7.0,7.0,6.0,Finished,306.0,1.0
+2024,Bahrain,Permanent,HAM,Mercedes,9.0,9.0,7.0,Finished,322.0,2.0
+2024,Bahrain,Permanent,PIA,McLaren,8.0,8.0,8.0,Finished,326.0,0.0
+2024,Bahrain,Permanent,ALO,Aston Martin,6.0,6.0,9.0,Finished,326.0,-3.0
+2024,Bahrain,Permanent,STR,Aston Martin,12.0,12.0,10.0,Finished,325.0,2.0
+2024,Bahrain,Permanent,ZHO,Kick Sauber,17.0,17.0,11.0,Lapped,304.0,
+2024,Bahrain,Permanent,MAG,Haas F1 Team,15.0,15.0,12.0,Lapped,305.0,
+2024,Bahrain,Permanent,RIC,RB,14.0,14.0,13.0,Lapped,304.0,
+2024,Bahrain,Permanent,TSU,RB,11.0,11.0,14.0,Lapped,324.0,
+2024,Bahrain,Permanent,ALB,Williams,13.0,13.0,15.0,Lapped,307.0,
+2024,Bahrain,Permanent,HUL,Haas F1 Team,10.0,10.0,16.0,Lapped,308.0,
+2024,Bahrain,Permanent,OCO,Alpine,19.0,19.0,17.0,Lapped,298.0,
+2024,Bahrain,Permanent,GAS,Alpine,20.0,20.0,18.0,Lapped,301.0,
+2024,Bahrain,Permanent,BOT,Kick Sauber,16.0,16.0,19.0,Lapped,305.0,
+2024,Bahrain,Permanent,SAR,Williams,18.0,18.0,20.0,Lapped,304.0,
+2024,Saudi Arabia,Street,VER,Red Bull Racing,1.0,1.0,1.0,Finished,316.0,0.0
+2024,Saudi Arabia,Street,PER,Red Bull Racing,3.0,3.0,2.0,Finished,315.0,1.0
+2024,Saudi Arabia,Street,LEC,Ferrari,2.0,2.0,3.0,Finished,328.0,-1.0
+2024,Saudi Arabia,Street,PIA,McLaren,5.0,5.0,4.0,Finished,314.0,1.0
+2024,Saudi Arabia,Street,ALO,Aston Martin,4.0,4.0,5.0,Finished,313.0,-1.0
+2024,Saudi Arabia,Street,RUS,Mercedes,7.0,7.0,6.0,Finished,323.0,1.0
+2024,Saudi Arabia,Street,BEA,Ferrari,11.0,11.0,7.0,Finished,315.0,4.0
+2024,Saudi Arabia,Street,NOR,McLaren,6.0,6.0,8.0,Finished,310.0,-2.0
+2024,Saudi Arabia,Street,HAM,Mercedes,8.0,8.0,9.0,Finished,332.0,-1.0
+2024,Saudi Arabia,Street,HUL,Haas F1 Team,15.0,15.0,10.0,Finished,316.0,5.0
+2024,Saudi Arabia,Street,ALB,Williams,12.0,12.0,11.0,Finished,317.0,1.0
+2024,Saudi Arabia,Street,MAG,Haas F1 Team,13.0,13.0,12.0,Finished,313.0,1.0
+2024,Saudi Arabia,Street,OCO,Alpine,17.0,17.0,13.0,Lapped,320.0,
+2024,Saudi Arabia,Street,SAR,Williams,19.0,19.0,14.0,Lapped,315.0,
+2024,Saudi Arabia,Street,TSU,RB,9.0,9.0,15.0,Lapped,320.0,
+2024,Saudi Arabia,Street,RIC,RB,14.0,14.0,16.0,Lapped,320.0,
+2024,Saudi Arabia,Street,BOT,Kick Sauber,16.0,16.0,17.0,Lapped,313.0,
+2024,Saudi Arabia,Street,ZHO,Kick Sauber,20.0,20.0,18.0,Lapped,313.0,
+2024,Saudi Arabia,Street,STR,Aston Martin,10.0,10.0,19.0,Retired,311.0,
+2024,Saudi Arabia,Street,GAS,Alpine,18.0,18.0,20.0,Retired,,
+2024,Australia,Hybrid,SAI,Ferrari,2.0,2.0,1.0,Finished,307.0,1.0
+2024,Australia,Hybrid,LEC,Ferrari,4.0,5.0,2.0,Finished,327.0,2.0
+2024,Australia,Hybrid,NOR,McLaren,3.0,4.0,3.0,Finished,311.0,0.0
+2024,Australia,Hybrid,PIA,McLaren,5.0,6.0,4.0,Finished,310.0,1.0
+2024,Australia,Hybrid,PER,Red Bull Racing,6.0,3.0,5.0,Finished,312.0,1.0
+2024,Australia,Hybrid,STR,Aston Martin,9.0,9.0,6.0,Finished,306.0,3.0
+2024,Australia,Hybrid,TSU,RB,8.0,8.0,7.0,Finished,310.0,1.0
+2024,Australia,Hybrid,ALO,Aston Martin,10.0,10.0,8.0,Finished,304.0,2.0
+2024,Australia,Hybrid,HUL,Haas F1 Team,16.0,16.0,9.0,Finished,315.0,7.0
+2024,Australia,Hybrid,MAG,Haas F1 Team,14.0,14.0,10.0,Lapped,338.0,
+2024,Australia,Hybrid,ALB,Williams,12.0,12.0,11.0,Lapped,313.0,
+2024,Australia,Hybrid,RIC,RB,18.0,18.0,12.0,Lapped,307.0,
+2024,Australia,Hybrid,GAS,Alpine,17.0,17.0,13.0,Lapped,307.0,
+2024,Australia,Hybrid,BOT,Kick Sauber,13.0,13.0,14.0,Lapped,307.0,
+2024,Australia,Hybrid,ZHO,Kick Sauber,19.0,19.0,15.0,Lapped,311.0,
+2024,Australia,Hybrid,OCO,Alpine,15.0,15.0,16.0,Lapped,309.0,
+2024,Australia,Hybrid,RUS,Mercedes,7.0,7.0,17.0,Retired,318.0,
+2024,Australia,Hybrid,HAM,Mercedes,11.0,11.0,18.0,Retired,310.0,
+2024,Australia,Hybrid,VER,Red Bull Racing,1.0,1.0,19.0,Retired,320.0,
+2024,Japan,Permanent,VER,Red Bull Racing,1.0,,1.0,Finished,322.0,0.0
+2024,Japan,Permanent,PER,Red Bull Racing,2.0,,2.0,Finished,326.0,0.0
+2024,Japan,Permanent,SAI,Ferrari,4.0,,3.0,Finished,325.0,1.0
+2024,Japan,Permanent,LEC,Ferrari,8.0,,4.0,Finished,306.0,4.0
+2024,Japan,Permanent,NOR,McLaren,3.0,,5.0,Finished,309.0,-2.0
+2024,Japan,Permanent,ALO,Aston Martin,5.0,,6.0,Finished,306.0,-1.0
+2024,Japan,Permanent,RUS,Mercedes,9.0,,7.0,Finished,304.0,2.0
+2024,Japan,Permanent,PIA,McLaren,6.0,,8.0,Finished,308.0,-2.0
+2024,Japan,Permanent,HAM,Mercedes,7.0,,9.0,Finished,304.0,-2.0
+2024,Japan,Permanent,TSU,RB,10.0,,10.0,Lapped,305.0,
+2024,Japan,Permanent,HUL,Haas F1 Team,12.0,,11.0,Lapped,332.0,
+2024,Japan,Permanent,STR,Aston Martin,16.0,,12.0,Lapped,303.0,
+2024,Japan,Permanent,MAG,Haas F1 Team,18.0,,13.0,Lapped,328.0,
+2024,Japan,Permanent,BOT,Kick Sauber,13.0,,14.0,Lapped,323.0,
+2024,Japan,Permanent,OCO,Alpine,15.0,,15.0,Lapped,306.0,
+2024,Japan,Permanent,GAS,Alpine,17.0,,16.0,Lapped,306.0,
+2024,Japan,Permanent,SAR,Williams,19.0,,17.0,Lapped,306.0,
+2024,Japan,Permanent,ZHO,Kick Sauber,20.0,,18.0,Retired,300.0,
+2024,Japan,Permanent,RIC,RB,11.0,,19.0,Retired,,
+2024,Japan,Permanent,ALB,Williams,14.0,,20.0,Retired,,
+2024,China,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,309.0,0.0
+2024,China,Permanent,NOR,McLaren,4.0,4.0,2.0,Finished,310.0,2.0
+2024,China,Permanent,PER,Red Bull Racing,2.0,2.0,3.0,Finished,332.0,-1.0
+2024,China,Permanent,LEC,Ferrari,6.0,6.0,4.0,Finished,311.0,2.0
+2024,China,Permanent,SAI,Ferrari,7.0,7.0,5.0,Finished,311.0,2.0
+2024,China,Permanent,RUS,Mercedes,8.0,8.0,6.0,Finished,332.0,2.0
+2024,China,Permanent,ALO,Aston Martin,3.0,3.0,7.0,Finished,334.0,-4.0
+2024,China,Permanent,PIA,McLaren,5.0,5.0,8.0,Finished,330.0,-3.0
+2024,China,Permanent,HAM,Mercedes,18.0,18.0,9.0,Finished,333.0,9.0
+2024,China,Permanent,HUL,Haas F1 Team,9.0,9.0,10.0,Finished,318.0,-1.0
+2024,China,Permanent,OCO,Alpine,13.0,13.0,11.0,Finished,308.0,2.0
+2024,China,Permanent,ALB,Williams,14.0,14.0,12.0,Finished,313.0,2.0
+2024,China,Permanent,GAS,Alpine,15.0,15.0,13.0,Finished,303.0,2.0
+2024,China,Permanent,ZHO,Kick Sauber,16.0,16.0,14.0,Finished,309.0,2.0
+2024,China,Permanent,STR,Aston Martin,11.0,11.0,15.0,Finished,308.0,-4.0
+2024,China,Permanent,MAG,Haas F1 Team,17.0,17.0,16.0,Finished,312.0,1.0
+2024,China,Permanent,SAR,Williams,20.0,20.0,17.0,Finished,313.0,3.0
+2024,China,Permanent,RIC,RB,12.0,12.0,18.0,Retired,317.0,
+2024,China,Permanent,TSU,RB,19.0,19.0,19.0,Retired,315.0,
+2024,China,Permanent,BOT,Kick Sauber,10.0,10.0,20.0,Retired,311.0,
+2024,Miami,Street,NOR,McLaren,5.0,5.0,1.0,Finished,320.0,4.0
+2024,Miami,Street,VER,Red Bull Racing,1.0,1.0,2.0,Finished,321.0,-1.0
+2024,Miami,Street,LEC,Ferrari,2.0,2.0,3.0,Finished,323.0,-1.0
+2024,Miami,Street,PER,Red Bull Racing,4.0,4.0,4.0,Finished,325.0,0.0
+2024,Miami,Street,SAI,Ferrari,3.0,3.0,5.0,Finished,324.0,-2.0
+2024,Miami,Street,HAM,Mercedes,8.0,8.0,6.0,Finished,339.0,2.0
+2024,Miami,Street,TSU,RB,10.0,10.0,7.0,Finished,320.0,3.0
+2024,Miami,Street,RUS,Mercedes,7.0,7.0,8.0,Finished,326.0,-1.0
+2024,Miami,Street,ALO,Aston Martin,15.0,15.0,9.0,Finished,321.0,6.0
+2024,Miami,Street,OCO,Alpine,13.0,13.0,10.0,Finished,324.0,3.0
+2024,Miami,Street,HUL,Haas F1 Team,9.0,9.0,11.0,Finished,328.0,-2.0
+2024,Miami,Street,GAS,Alpine,12.0,12.0,12.0,Finished,325.0,0.0
+2024,Miami,Street,PIA,McLaren,6.0,6.0,13.0,Finished,321.0,-7.0
+2024,Miami,Street,ZHO,Kick Sauber,19.0,20.0,14.0,Finished,326.0,5.0
+2024,Miami,Street,RIC,RB,20.0,18.0,15.0,Finished,333.0,5.0
+2024,Miami,Street,BOT,Kick Sauber,16.0,16.0,16.0,Finished,339.0,0.0
+2024,Miami,Street,STR,Aston Martin,11.0,11.0,17.0,Finished,345.0,-6.0
+2024,Miami,Street,ALB,Williams,14.0,14.0,18.0,Finished,327.0,-4.0
+2024,Miami,Street,MAG,Haas F1 Team,18.0,19.0,19.0,Finished,321.0,-1.0
+2024,Miami,Street,SAR,Williams,17.0,17.0,20.0,Retired,331.0,
+2024,Emilia Romagna,Permanent,VER,Red Bull Racing,1.0,1.0,1.0,Finished,316.0,0.0
+2024,Emilia Romagna,Permanent,NOR,McLaren,2.0,3.0,2.0,Finished,316.0,0.0
+2024,Emilia Romagna,Permanent,LEC,Ferrari,3.0,4.0,3.0,Finished,329.0,0.0
+2024,Emilia Romagna,Permanent,PIA,McLaren,5.0,2.0,4.0,Finished,333.0,1.0
+2024,Emilia Romagna,Permanent,SAI,Ferrari,4.0,5.0,5.0,Finished,315.0,-1.0
+2024,Emilia Romagna,Permanent,HAM,Mercedes,8.0,8.0,6.0,Finished,313.0,2.0
+2024,Emilia Romagna,Permanent,RUS,Mercedes,6.0,6.0,7.0,Finished,309.0,-1.0
+2024,Emilia Romagna,Permanent,PER,Red Bull Racing,11.0,11.0,8.0,Finished,316.0,3.0
+2024,Emilia Romagna,Permanent,STR,Aston Martin,13.0,13.0,9.0,Finished,311.0,4.0
+2024,Emilia Romagna,Permanent,TSU,RB,7.0,7.0,10.0,Lapped,307.0,
+2024,Emilia Romagna,Permanent,HUL,Haas F1 Team,10.0,10.0,11.0,Lapped,336.0,
+2024,Emilia Romagna,Permanent,MAG,Haas F1 Team,18.0,18.0,12.0,Lapped,337.0,
+2024,Emilia Romagna,Permanent,RIC,RB,9.0,9.0,13.0,Lapped,309.0,
+2024,Emilia Romagna,Permanent,OCO,Alpine,12.0,12.0,14.0,Lapped,335.0,
+2024,Emilia Romagna,Permanent,ZHO,Kick Sauber,17.0,17.0,15.0,Lapped,332.0,
+2024,Emilia Romagna,Permanent,GAS,Alpine,15.0,15.0,16.0,Lapped,304.0,
+2024,Emilia Romagna,Permanent,SAR,Williams,19.0,20.0,17.0,Lapped,321.0,
+2024,Emilia Romagna,Permanent,BOT,Kick Sauber,16.0,16.0,18.0,Lapped,311.0,
+2024,Emilia Romagna,Permanent,ALO,Aston Martin,20.0,19.0,19.0,Lapped,313.0,
+2024,Emilia Romagna,Permanent,ALB,Williams,14.0,14.0,20.0,Retired,314.0,
+2024,Monaco,Street,LEC,Ferrari,1.0,1.0,1.0,Finished,285.0,0.0
+2024,Monaco,Street,PIA,McLaren,2.0,2.0,2.0,Finished,285.0,0.0
+2024,Monaco,Street,SAI,Ferrari,3.0,3.0,3.0,Finished,287.0,0.0
+2024,Monaco,Street,NOR,McLaren,4.0,4.0,4.0,Finished,286.0,0.0
+2024,Monaco,Street,RUS,Mercedes,5.0,5.0,5.0,Finished,287.0,0.0
+2024,Monaco,Street,VER,Red Bull Racing,6.0,6.0,6.0,Finished,273.0,0.0
+2024,Monaco,Street,HAM,Mercedes,7.0,7.0,7.0,Finished,288.0,0.0
+2024,Monaco,Street,TSU,RB,8.0,8.0,8.0,Lapped,281.0,
+2024,Monaco,Street,ALB,Williams,9.0,9.0,9.0,Lapped,282.0,
+2024,Monaco,Street,GAS,Alpine,10.0,10.0,10.0,Lapped,282.0,
+2024,Monaco,Street,ALO,Aston Martin,14.0,14.0,11.0,Lapped,284.0,
+2024,Monaco,Street,RIC,RB,12.0,12.0,12.0,Lapped,282.0,
+2024,Monaco,Street,BOT,Kick Sauber,17.0,17.0,13.0,Lapped,283.0,
+2024,Monaco,Street,STR,Aston Martin,13.0,13.0,14.0,Lapped,286.0,
+2024,Monaco,Street,SAR,Williams,15.0,15.0,15.0,Lapped,285.0,
+2024,Monaco,Street,ZHO,Kick Sauber,18.0,18.0,16.0,Lapped,284.0,
+2024,Monaco,Street,OCO,Alpine,11.0,11.0,17.0,Retired,,
+2024,Monaco,Street,PER,Red Bull Racing,16.0,16.0,18.0,Retired,,
+2024,Monaco,Street,HUL,Haas F1 Team,19.0,14.0,19.0,Retired,,
+2024,Monaco,Street,MAG,Haas F1 Team,20.0,15.0,20.0,Retired,,
+2024,Canada,Hybrid,VER,Red Bull Racing,2.0,2.0,1.0,Finished,,1.0
+2024,Canada,Hybrid,NOR,McLaren,3.0,3.0,2.0,Finished,,1.0
+2024,Canada,Hybrid,RUS,Mercedes,1.0,1.0,3.0,Finished,,-2.0
+2024,Canada,Hybrid,HAM,Mercedes,7.0,7.0,4.0,Finished,,3.0
+2024,Canada,Hybrid,PIA,McLaren,4.0,4.0,5.0,Finished,,-1.0
+2024,Canada,Hybrid,ALO,Aston Martin,6.0,6.0,6.0,Finished,,0.0
+2024,Canada,Hybrid,STR,Aston Martin,9.0,9.0,7.0,Finished,,2.0
+2024,Canada,Hybrid,RIC,RB,5.0,5.0,8.0,Finished,,-3.0
+2024,Canada,Hybrid,GAS,Alpine,15.0,15.0,9.0,Finished,,6.0
+2024,Canada,Hybrid,OCO,Alpine,18.0,18.0,10.0,Finished,,8.0
+2024,Canada,Hybrid,HUL,Haas F1 Team,17.0,19.0,11.0,Finished,,6.0
+2024,Canada,Hybrid,MAG,Haas F1 Team,14.0,14.0,12.0,Finished,,2.0
+2024,Canada,Hybrid,BOT,Kick Sauber,19.0,17.0,13.0,Finished,,6.0
+2024,Canada,Hybrid,TSU,RB,8.0,8.0,14.0,Finished,,-6.0
+2024,Canada,Hybrid,ZHO,Kick Sauber,20.0,20.0,15.0,Lapped,,
+2024,Canada,Hybrid,SAI,Ferrari,12.0,12.0,16.0,Retired,,
+2024,Canada,Hybrid,ALB,Williams,10.0,10.0,17.0,Retired,,
+2024,Canada,Hybrid,PER,Red Bull Racing,16.0,16.0,18.0,Retired,,
+2024,Canada,Hybrid,LEC,Ferrari,11.0,11.0,19.0,Retired,,
+2024,Canada,Hybrid,SAR,Williams,13.0,13.0,20.0,Retired,,
+2024,Spain,Permanent,VER,Red Bull Racing,2.0,2.0,1.0,Finished,305.0,1.0
+2024,Spain,Permanent,NOR,McLaren,1.0,1.0,2.0,Finished,327.0,-1.0
+2024,Spain,Permanent,HAM,Mercedes,3.0,3.0,3.0,Finished,332.0,0.0
+2024,Spain,Permanent,RUS,Mercedes,4.0,4.0,4.0,Finished,306.0,0.0
+2024,Spain,Permanent,LEC,Ferrari,5.0,5.0,5.0,Finished,311.0,0.0
+2024,Spain,Permanent,SAI,Ferrari,6.0,6.0,6.0,Finished,329.0,0.0
+2024,Spain,Permanent,PIA,McLaren,9.0,10.0,7.0,Finished,304.0,2.0
+2024,Spain,Permanent,PER,Red Bull Racing,11.0,8.0,8.0,Finished,324.0,3.0
+2024,Spain,Permanent,GAS,Alpine,7.0,7.0,9.0,Finished,305.0,-2.0
+2024,Spain,Permanent,OCO,Alpine,8.0,9.0,10.0,Finished,304.0,-2.0
+2024,Spain,Permanent,HUL,Haas F1 Team,13.0,13.0,11.0,Finished,305.0,2.0
+2024,Spain,Permanent,ALO,Aston Martin,10.0,11.0,12.0,Lapped,304.0,
+2024,Spain,Permanent,ZHO,Kick Sauber,15.0,15.0,13.0,Lapped,301.0,
+2024,Spain,Permanent,STR,Aston Martin,14.0,14.0,14.0,Lapped,305.0,
+2024,Spain,Permanent,RIC,RB,18.0,18.0,15.0,Lapped,306.0,
+2024,Spain,Permanent,BOT,Kick Sauber,12.0,12.0,16.0,Lapped,303.0,
+2024,Spain,Permanent,MAG,Haas F1 Team,16.0,16.0,17.0,Lapped,313.0,
+2024,Spain,Permanent,ALB,Williams,20.0,19.0,18.0,Lapped,302.0,
+2024,Spain,Permanent,TSU,RB,17.0,17.0,19.0,Lapped,306.0,
+2024,Spain,Permanent,SAR,Williams,19.0,20.0,20.0,Lapped,305.0,
+2024,Austria,Permanent,RUS,Mercedes,3.0,3.0,1.0,Finished,300.0,2.0
+2024,Austria,Permanent,PIA,McLaren,7.0,7.0,2.0,Finished,304.0,5.0
+2024,Austria,Permanent,SAI,Ferrari,4.0,4.0,3.0,Finished,303.0,1.0
+2024,Austria,Permanent,HAM,Mercedes,5.0,5.0,4.0,Finished,299.0,1.0
+2024,Austria,Permanent,VER,Red Bull Racing,1.0,1.0,5.0,Finished,312.0,-4.0
+2024,Austria,Permanent,HUL,Haas F1 Team,9.0,9.0,6.0,Finished,311.0,3.0
+2024,Austria,Permanent,PER,Red Bull Racing,8.0,8.0,7.0,Finished,325.0,1.0
+2024,Austria,Permanent,MAG,Haas F1 Team,12.0,12.0,8.0,Finished,321.0,4.0
+2024,Austria,Permanent,RIC,RB,11.0,11.0,9.0,Finished,305.0,2.0
+2024,Austria,Permanent,GAS,Alpine,13.0,13.0,10.0,Finished,300.0,3.0
+2024,Austria,Permanent,LEC,Ferrari,6.0,6.0,11.0,Finished,301.0,-5.0
+2024,Austria,Permanent,OCO,Alpine,10.0,10.0,12.0,Finished,297.0,-2.0
+2024,Austria,Permanent,STR,Aston Martin,17.0,17.0,13.0,Lapped,324.0,
+2024,Austria,Permanent,TSU,RB,14.0,14.0,14.0,Lapped,306.0,
+2024,Austria,Permanent,ALB,Williams,16.0,16.0,15.0,Lapped,301.0,
+2024,Austria,Permanent,BOT,Kick Sauber,18.0,18.0,16.0,Lapped,300.0,
+2024,Austria,Permanent,ZHO,Kick Sauber,20.0,20.0,17.0,Lapped,299.0,
+2024,Austria,Permanent,ALO,Aston Martin,15.0,15.0,18.0,Lapped,308.0,
+2024,Austria,Permanent,SAR,Williams,19.0,19.0,19.0,Lapped,304.0,
+2024,Austria,Permanent,NOR,McLaren,2.0,2.0,20.0,Lapped,319.0,
+2024,United Kingdom,Permanent,HAM,Mercedes,2.0,2.0,1.0,Finished,305.0,1.0
+2024,United Kingdom,Permanent,VER,Red Bull Racing,4.0,4.0,2.0,Finished,327.0,2.0
+2024,United Kingdom,Permanent,NOR,McLaren,3.0,3.0,3.0,Finished,310.0,0.0
+2024,United Kingdom,Permanent,PIA,McLaren,5.0,5.0,4.0,Finished,309.0,1.0
+2024,United Kingdom,Permanent,SAI,Ferrari,7.0,7.0,5.0,Finished,307.0,2.0
+2024,United Kingdom,Permanent,HUL,Haas F1 Team,6.0,6.0,6.0,Finished,305.0,0.0
+2024,United Kingdom,Permanent,STR,Aston Martin,8.0,8.0,7.0,Finished,304.0,1.0
+2024,United Kingdom,Permanent,ALO,Aston Martin,10.0,10.0,8.0,Finished,304.0,2.0
+2024,United Kingdom,Permanent,ALB,Williams,9.0,9.0,9.0,Finished,308.0,0.0
+2024,United Kingdom,Permanent,TSU,RB,13.0,13.0,10.0,Finished,301.0,3.0
+2024,United Kingdom,Permanent,SAR,Williams,12.0,12.0,11.0,Finished,330.0,1.0
+2024,United Kingdom,Permanent,MAG,Haas F1 Team,17.0,17.0,12.0,Finished,304.0,5.0
+2024,United Kingdom,Permanent,RIC,RB,15.0,15.0,13.0,Lapped,303.0,
+2024,United Kingdom,Permanent,LEC,Ferrari,11.0,11.0,14.0,Lapped,303.0,
+2024,United Kingdom,Permanent,BOT,Kick Sauber,16.0,16.0,15.0,Lapped,298.0,
+2024,United Kingdom,Permanent,OCO,Alpine,18.0,18.0,16.0,Lapped,302.0,
+2024,United Kingdom,Permanent,PER,Red Bull Racing,20.0,19.0,17.0,Lapped,308.0,
+2024,United Kingdom,Permanent,ZHO,Kick Sauber,14.0,14.0,18.0,Lapped,298.0,
+2024,United Kingdom,Permanent,RUS,Mercedes,1.0,1.0,19.0,Retired,302.0,
+2024,United Kingdom,Permanent,GAS,Alpine,19.0,20.0,20.0,Did not start,,
+2024,Hungary,Permanent,PIA,McLaren,2.0,2.0,1.0,Finished,296.0,1.0
+2024,Hungary,Permanent,NOR,McLaren,1.0,1.0,2.0,Finished,299.0,-1.0
+2024,Hungary,Permanent,HAM,Mercedes,5.0,5.0,3.0,Finished,300.0,2.0
+2024,Hungary,Permanent,LEC,Ferrari,6.0,6.0,4.0,Finished,300.0,2.0
+2024,Hungary,Permanent,VER,Red Bull Racing,3.0,3.0,5.0,Finished,316.0,-2.0
+2024,Hungary,Permanent,SAI,Ferrari,4.0,4.0,6.0,Finished,299.0,-2.0
+2024,Hungary,Permanent,PER,Red Bull Racing,16.0,16.0,7.0,Finished,299.0,9.0
+2024,Hungary,Permanent,RUS,Mercedes,17.0,17.0,8.0,Finished,297.0,9.0
+2024,Hungary,Permanent,TSU,RB,10.0,10.0,9.0,Finished,296.0,1.0
+2024,Hungary,Permanent,STR,Aston Martin,8.0,8.0,10.0,Finished,323.0,-2.0
+2024,Hungary,Permanent,ALO,Aston Martin,7.0,7.0,11.0,Finished,298.0,-4.0
+2024,Hungary,Permanent,RIC,RB,9.0,9.0,12.0,Lapped,296.0,
+2024,Hungary,Permanent,HUL,Haas F1 Team,11.0,11.0,13.0,Lapped,306.0,
+2024,Hungary,Permanent,ALB,Williams,13.0,13.0,14.0,Lapped,299.0,
+2024,Hungary,Permanent,MAG,Haas F1 Team,15.0,15.0,15.0,Lapped,303.0,
+2024,Hungary,Permanent,BOT,Kick Sauber,12.0,12.0,16.0,Lapped,299.0,
+2024,Hungary,Permanent,SAR,Williams,14.0,14.0,17.0,Lapped,302.0,
+2024,Hungary,Permanent,OCO,Alpine,19.0,19.0,18.0,Lapped,303.0,
+2024,Hungary,Permanent,ZHO,Kick Sauber,18.0,18.0,19.0,Lapped,299.0,
+2024,Hungary,Permanent,GAS,Alpine,20.0,20.0,20.0,Retired,298.0,
+2024,Belgium,Permanent,HAM,Mercedes,3.0,4.0,1.0,Finished,323.0,2.0
+2024,Belgium,Permanent,PIA,McLaren,5.0,6.0,2.0,Finished,325.0,3.0
+2024,Belgium,Permanent,LEC,Ferrari,1.0,2.0,3.0,Finished,324.0,-2.0
+2024,Belgium,Permanent,VER,Red Bull Racing,11.0,1.0,4.0,Finished,322.0,7.0
+2024,Belgium,Permanent,NOR,McLaren,4.0,5.0,5.0,Finished,342.0,-1.0
+2024,Belgium,Permanent,SAI,Ferrari,7.0,8.0,6.0,Finished,326.0,1.0
+2024,Belgium,Permanent,PER,Red Bull Racing,2.0,3.0,7.0,Finished,319.0,-5.0
+2024,Belgium,Permanent,ALO,Aston Martin,8.0,9.0,8.0,Finished,320.0,0.0
+2024,Belgium,Permanent,OCO,Alpine,9.0,10.0,9.0,Finished,328.0,0.0
+2024,Belgium,Permanent,RIC,RB,13.0,13.0,10.0,Finished,343.0,3.0
+2024,Belgium,Permanent,STR,Aston Martin,15.0,15.0,11.0,Finished,322.0,4.0
+2024,Belgium,Permanent,ALB,Williams,10.0,11.0,12.0,Finished,341.0,-2.0
+2024,Belgium,Permanent,GAS,Alpine,12.0,12.0,13.0,Finished,339.0,-1.0
+2024,Belgium,Permanent,MAG,Haas F1 Team,17.0,17.0,14.0,Finished,326.0,3.0
+2024,Belgium,Permanent,BOT,Kick Sauber,14.0,14.0,15.0,Finished,342.0,-1.0
+2024,Belgium,Permanent,TSU,RB,20.0,18.0,16.0,Finished,322.0,4.0
+2024,Belgium,Permanent,SAR,Williams,18.0,19.0,17.0,Finished,346.0,1.0
+2024,Belgium,Permanent,HUL,Haas F1 Team,16.0,16.0,18.0,Finished,324.0,-2.0
+2024,Belgium,Permanent,ZHO,Kick Sauber,19.0,20.0,19.0,Retired,,
+2024,Belgium,Permanent,RUS,Mercedes,6.0,7.0,20.0,Disqualified,325.0,
+2024,Netherlands,Permanent,NOR,McLaren,1.0,1.0,1.0,Finished,310.0,0.0
+2024,Netherlands,Permanent,VER,Red Bull Racing,2.0,2.0,2.0,Finished,304.0,0.0
+2024,Netherlands,Permanent,LEC,Ferrari,6.0,6.0,3.0,Finished,311.0,3.0
+2024,Netherlands,Permanent,PIA,McLaren,3.0,3.0,4.0,Finished,309.0,-1.0
+2024,Netherlands,Permanent,SAI,Ferrari,10.0,10.0,5.0,Finished,320.0,5.0
+2024,Netherlands,Permanent,PER,Red Bull Racing,5.0,5.0,6.0,Finished,314.0,-1.0
+2024,Netherlands,Permanent,RUS,Mercedes,4.0,4.0,7.0,Finished,314.0,-3.0
+2024,Netherlands,Permanent,HAM,Mercedes,14.0,11.0,8.0,Finished,313.0,6.0
+2024,Netherlands,Permanent,GAS,Alpine,9.0,9.0,9.0,Lapped,307.0,
+2024,Netherlands,Permanent,ALO,Aston Martin,7.0,7.0,10.0,Lapped,319.0,
+2024,Netherlands,Permanent,HUL,Haas F1 Team,12.0,13.0,11.0,Lapped,312.0,
+2024,Netherlands,Permanent,RIC,RB,13.0,15.0,12.0,Lapped,308.0,
+2024,Netherlands,Permanent,STR,Aston Martin,8.0,8.0,13.0,Lapped,308.0,
+2024,Netherlands,Permanent,ALB,Williams,19.0,10.0,14.0,Lapped,308.0,
+2024,Netherlands,Permanent,OCO,Alpine,15.0,16.0,15.0,Lapped,308.0,
+2024,Netherlands,Permanent,SAR,Williams,18.0,20.0,16.0,Lapped,312.0,
+2024,Netherlands,Permanent,TSU,RB,11.0,12.0,17.0,Lapped,306.0,
+2024,Netherlands,Permanent,MAG,Haas F1 Team,20.0,14.0,18.0,Lapped,311.0,
+2024,Netherlands,Permanent,BOT,Kick Sauber,16.0,17.0,19.0,Lapped,305.0,
+2024,Netherlands,Permanent,ZHO,Kick Sauber,17.0,18.0,20.0,Lapped,302.0,
+2024,Italy,Permanent,LEC,Ferrari,4.0,4.0,1.0,Finished,341.0,3.0
+2024,Italy,Permanent,PIA,McLaren,2.0,2.0,2.0,Finished,339.0,0.0
+2024,Italy,Permanent,NOR,McLaren,1.0,1.0,3.0,Finished,339.0,-2.0
+2024,Italy,Permanent,SAI,Ferrari,5.0,5.0,4.0,Finished,334.0,1.0
+2024,Italy,Permanent,HAM,Mercedes,6.0,6.0,5.0,Finished,339.0,1.0
+2024,Italy,Permanent,VER,Red Bull Racing,7.0,7.0,6.0,Finished,333.0,1.0
+2024,Italy,Permanent,RUS,Mercedes,3.0,3.0,7.0,Finished,339.0,-4.0
+2024,Italy,Permanent,PER,Red Bull Racing,8.0,8.0,8.0,Finished,334.0,0.0
+2024,Italy,Permanent,ALB,Williams,9.0,9.0,9.0,Finished,336.0,0.0
+2024,Italy,Permanent,MAG,Haas F1 Team,13.0,13.0,10.0,Finished,336.0,3.0
+2024,Italy,Permanent,ALO,Aston Martin,11.0,11.0,11.0,Finished,349.0,0.0
+2024,Italy,Permanent,COL,Williams,18.0,18.0,12.0,Finished,338.0,6.0
+2024,Italy,Permanent,RIC,RB,12.0,12.0,13.0,Finished,334.0,-1.0
+2024,Italy,Permanent,OCO,Alpine,15.0,15.0,14.0,Lapped,334.0,
+2024,Italy,Permanent,GAS,Alpine,14.0,14.0,15.0,Lapped,335.0,
+2024,Italy,Permanent,BOT,Kick Sauber,19.0,19.0,16.0,Lapped,334.0,
+2024,Italy,Permanent,HUL,Haas F1 Team,10.0,10.0,17.0,Lapped,337.0,
+2024,Italy,Permanent,ZHO,Kick Sauber,20.0,20.0,18.0,Lapped,329.0,
+2024,Italy,Permanent,STR,Aston Martin,17.0,17.0,19.0,Lapped,337.0,
+2024,Italy,Permanent,TSU,RB,16.0,16.0,20.0,Retired,353.0,
+2024,Azerbaijan,Street,PIA,McLaren,2.0,2.0,1.0,Finished,328.0,1.0
+2024,Azerbaijan,Street,LEC,Ferrari,1.0,1.0,2.0,Finished,343.0,-1.0
+2024,Azerbaijan,Street,RUS,Mercedes,5.0,5.0,3.0,Finished,329.0,2.0
+2024,Azerbaijan,Street,NOR,McLaren,15.0,16.0,4.0,Finished,326.0,11.0
+2024,Azerbaijan,Street,VER,Red Bull Racing,6.0,6.0,5.0,Finished,326.0,1.0
+2024,Azerbaijan,Street,ALO,Aston Martin,7.0,8.0,6.0,Finished,326.0,1.0
+2024,Azerbaijan,Street,ALB,Williams,9.0,10.0,7.0,Finished,327.0,2.0
+2024,Azerbaijan,Street,COL,Williams,8.0,9.0,8.0,Finished,329.0,0.0
+2024,Azerbaijan,Street,HAM,Mercedes,19.0,7.0,9.0,Finished,334.0,10.0
+2024,Azerbaijan,Street,BEA,Haas F1 Team,10.0,11.0,10.0,Finished,330.0,0.0
+2024,Azerbaijan,Street,HUL,Haas F1 Team,12.0,13.0,11.0,Finished,330.0,1.0
+2024,Azerbaijan,Street,GAS,Alpine,18.0,15.0,12.0,Finished,323.0,6.0
+2024,Azerbaijan,Street,RIC,RB,14.0,15.0,13.0,Finished,323.0,1.0
+2024,Azerbaijan,Street,ZHO,Kick Sauber,17.0,18.0,14.0,Finished,327.0,3.0
+2024,Azerbaijan,Street,OCO,Alpine,20.0,19.0,15.0,Lapped,323.0,
+2024,Azerbaijan,Street,BOT,Kick Sauber,16.0,17.0,16.0,Lapped,325.0,
+2024,Azerbaijan,Street,PER,Red Bull Racing,4.0,4.0,17.0,Finished,345.0,-13.0
+2024,Azerbaijan,Street,SAI,Ferrari,3.0,3.0,18.0,Finished,331.0,-15.0
+2024,Azerbaijan,Street,STR,Aston Martin,13.0,14.0,19.0,Finished,342.0,-6.0
+2024,Azerbaijan,Street,TSU,RB,11.0,12.0,20.0,Retired,326.0,
+2024,Singapore,Street,NOR,McLaren,1.0,1.0,1.0,Finished,292.0,0.0
+2024,Singapore,Street,VER,Red Bull Racing,2.0,2.0,2.0,Finished,291.0,0.0
+2024,Singapore,Street,PIA,McLaren,5.0,5.0,3.0,Finished,292.0,2.0
+2024,Singapore,Street,RUS,Mercedes,4.0,4.0,4.0,Finished,293.0,0.0
+2024,Singapore,Street,LEC,Ferrari,9.0,9.0,5.0,Finished,295.0,4.0
+2024,Singapore,Street,HAM,Mercedes,3.0,3.0,6.0,Finished,293.0,-3.0
+2024,Singapore,Street,SAI,Ferrari,10.0,10.0,7.0,Finished,290.0,3.0
+2024,Singapore,Street,ALO,Aston Martin,7.0,7.0,8.0,Lapped,297.0,
+2024,Singapore,Street,HUL,Haas F1 Team,6.0,6.0,9.0,Lapped,295.0,
+2024,Singapore,Street,PER,Red Bull Racing,13.0,13.0,10.0,Lapped,309.0,
+2024,Singapore,Street,COL,Williams,12.0,12.0,11.0,Lapped,287.0,
+2024,Singapore,Street,TSU,RB,8.0,8.0,12.0,Lapped,291.0,
+2024,Singapore,Street,OCO,Alpine,15.0,15.0,13.0,Lapped,289.0,
+2024,Singapore,Street,STR,Aston Martin,17.0,17.0,14.0,Lapped,295.0,
+2024,Singapore,Street,ZHO,Kick Sauber,20.0,20.0,15.0,Lapped,290.0,
+2024,Singapore,Street,BOT,Kick Sauber,19.0,19.0,16.0,Lapped,310.0,
+2024,Singapore,Street,GAS,Alpine,18.0,18.0,17.0,Lapped,292.0,
+2024,Singapore,Street,RIC,RB,16.0,16.0,18.0,Lapped,293.0,
+2024,Singapore,Street,MAG,Haas F1 Team,14.0,14.0,19.0,Finished,299.0,-5.0
+2024,Singapore,Street,ALB,Williams,11.0,11.0,20.0,Retired,283.0,
+2024,United States,Permanent,LEC,Ferrari,4.0,4.0,1.0,Finished,314.0,3.0
+2024,United States,Permanent,SAI,Ferrari,3.0,3.0,2.0,Finished,316.0,1.0
+2024,United States,Permanent,VER,Red Bull Racing,2.0,2.0,3.0,Finished,312.0,-1.0
+2024,United States,Permanent,NOR,McLaren,1.0,1.0,4.0,Finished,311.0,-3.0
+2024,United States,Permanent,PIA,McLaren,5.0,5.0,5.0,Finished,311.0,0.0
+2024,United States,Permanent,RUS,Mercedes,20.0,6.0,6.0,Finished,317.0,14.0
+2024,United States,Permanent,PER,Red Bull Racing,9.0,10.0,7.0,Finished,309.0,2.0
+2024,United States,Permanent,HUL,Haas F1 Team,11.0,12.0,8.0,Finished,307.0,3.0
+2024,United States,Permanent,LAW,RB,19.0,15.0,9.0,Finished,311.0,10.0
+2024,United States,Permanent,COL,Williams,15.0,17.0,10.0,Finished,309.0,5.0
+2024,United States,Permanent,MAG,Haas F1 Team,8.0,9.0,11.0,Finished,304.0,-3.0
+2024,United States,Permanent,GAS,Alpine,6.0,7.0,12.0,Finished,311.0,-6.0
+2024,United States,Permanent,ALO,Aston Martin,7.0,8.0,13.0,Lapped,306.0,
+2024,United States,Permanent,TSU,RB,10.0,11.0,14.0,Lapped,311.0,
+2024,United States,Permanent,STR,Aston Martin,13.0,14.0,15.0,Lapped,308.0,
+2024,United States,Permanent,ALB,Williams,14.0,16.0,16.0,Lapped,310.0,
+2024,United States,Permanent,BOT,Kick Sauber,16.0,18.0,17.0,Lapped,310.0,
+2024,United States,Permanent,OCO,Alpine,12.0,13.0,18.0,Lapped,311.0,
+2024,United States,Permanent,ZHO,Kick Sauber,18.0,20.0,19.0,Lapped,311.0,
+2024,United States,Permanent,HAM,Mercedes,17.0,19.0,20.0,Retired,,
+2024,Mexico City,Permanent,SAI,Ferrari,1.0,1.0,1.0,Finished,330.0,0.0
+2024,Mexico City,Permanent,NOR,McLaren,3.0,3.0,2.0,Finished,328.0,1.0
+2024,Mexico City,Permanent,LEC,Ferrari,4.0,4.0,3.0,Finished,333.0,1.0
+2024,Mexico City,Permanent,HAM,Mercedes,6.0,6.0,4.0,Finished,349.0,2.0
+2024,Mexico City,Permanent,RUS,Mercedes,5.0,5.0,5.0,Finished,328.0,0.0
+2024,Mexico City,Permanent,VER,Red Bull Racing,2.0,2.0,6.0,Finished,329.0,-4.0
+2024,Mexico City,Permanent,MAG,Haas F1 Team,7.0,7.0,7.0,Finished,332.0,0.0
+2024,Mexico City,Permanent,PIA,McLaren,17.0,17.0,8.0,Finished,328.0,9.0
+2024,Mexico City,Permanent,HUL,Haas F1 Team,10.0,10.0,9.0,Lapped,330.0,
+2024,Mexico City,Permanent,GAS,Alpine,8.0,8.0,10.0,Lapped,353.0,
+2024,Mexico City,Permanent,STR,Aston Martin,14.0,14.0,11.0,Lapped,331.0,
+2024,Mexico City,Permanent,COL,Williams,16.0,16.0,12.0,Lapped,330.0,
+2024,Mexico City,Permanent,OCO,Alpine,0.0,19.0,13.0,Lapped,352.0,
+2024,Mexico City,Permanent,BOT,Kick Sauber,15.0,15.0,14.0,Lapped,322.0,
+2024,Mexico City,Permanent,ZHO,Kick Sauber,19.0,20.0,15.0,Lapped,326.0,
+2024,Mexico City,Permanent,LAW,RB,12.0,12.0,16.0,Lapped,329.0,
+2024,Mexico City,Permanent,PER,Red Bull Racing,18.0,18.0,17.0,Lapped,327.0,
+2024,Mexico City,Permanent,ALO,Aston Martin,13.0,13.0,18.0,Retired,329.0,
+2024,Mexico City,Permanent,ALB,Williams,9.0,9.0,19.0,Retired,,
+2024,Mexico City,Permanent,TSU,RB,11.0,11.0,20.0,Retired,,
+2024,São Paulo,Permanent,VER,Red Bull Racing,17.0,12.0,1.0,Finished,311.0,16.0
+2024,São Paulo,Permanent,OCO,Alpine,4.0,4.0,2.0,Finished,308.0,2.0
+2024,São Paulo,Permanent,GAS,Alpine,13.0,15.0,3.0,Finished,310.0,10.0
+2024,São Paulo,Permanent,RUS,Mercedes,2.0,2.0,4.0,Finished,315.0,-2.0
+2024,São Paulo,Permanent,LEC,Ferrari,6.0,6.0,5.0,Finished,311.0,1.0
+2024,São Paulo,Permanent,NOR,McLaren,1.0,1.0,6.0,Finished,310.0,-5.0
+2024,São Paulo,Permanent,TSU,RB,3.0,3.0,7.0,Finished,309.0,-4.0
+2024,São Paulo,Permanent,PIA,McLaren,8.0,8.0,8.0,Finished,311.0,0.0
+2024,São Paulo,Permanent,LAW,RB,5.0,5.0,9.0,Finished,310.0,-4.0
+2024,São Paulo,Permanent,HAM,Mercedes,14.0,16.0,10.0,Finished,316.0,4.0
+2024,São Paulo,Permanent,PER,Red Bull Racing,12.0,13.0,11.0,Finished,315.0,1.0
+2024,São Paulo,Permanent,BEA,Haas F1 Team,15.0,17.0,12.0,Finished,310.0,3.0
+2024,São Paulo,Permanent,BOT,Kick Sauber,11.0,11.0,13.0,Finished,303.0,-2.0
+2024,São Paulo,Permanent,ALO,Aston Martin,9.0,9.0,14.0,Finished,307.0,-5.0
+2024,São Paulo,Permanent,ZHO,Kick Sauber,19.0,20.0,15.0,Finished,302.0,4.0
+2024,São Paulo,Permanent,SAI,Ferrari,20.0,14.0,16.0,Retired,314.0,
+2024,São Paulo,Permanent,COL,Williams,16.0,18.0,17.0,Retired,312.0,
+2024,São Paulo,Permanent,ALB,Williams,7.0,7.0,18.0,Did not start,,
+2024,São Paulo,Permanent,STR,Aston Martin,10.0,10.0,19.0,Did not start,,
+2024,São Paulo,Permanent,HUL,Haas F1 Team,18.0,19.0,20.0,Disqualified,310.0,
+2024,Las Vegas,Hybrid,RUS,Mercedes,1.0,1.0,1.0,Finished,339.0,0.0
+2024,Las Vegas,Hybrid,HAM,Mercedes,10.0,10.0,2.0,Finished,340.0,8.0
+2024,Las Vegas,Hybrid,SAI,Ferrari,2.0,2.0,3.0,Finished,338.0,-1.0
+2024,Las Vegas,Hybrid,LEC,Ferrari,4.0,4.0,4.0,Finished,351.0,0.0
+2024,Las Vegas,Hybrid,VER,Red Bull Racing,5.0,5.0,5.0,Finished,351.0,0.0
+2024,Las Vegas,Hybrid,NOR,McLaren,6.0,6.0,6.0,Finished,339.0,0.0
+2024,Las Vegas,Hybrid,PIA,McLaren,8.0,8.0,7.0,Finished,339.0,1.0
+2024,Las Vegas,Hybrid,HUL,Haas F1 Team,9.0,9.0,8.0,Finished,337.0,1.0
+2024,Las Vegas,Hybrid,TSU,RB,7.0,7.0,9.0,Finished,337.0,-2.0
+2024,Las Vegas,Hybrid,PER,Red Bull Racing,15.0,16.0,10.0,Finished,334.0,5.0
+2024,Las Vegas,Hybrid,ALO,Aston Martin,16.0,17.0,11.0,Finished,343.0,5.0
+2024,Las Vegas,Hybrid,MAG,Haas F1 Team,12.0,12.0,12.0,Finished,341.0,0.0
+2024,Las Vegas,Hybrid,ZHO,Kick Sauber,13.0,13.0,13.0,Finished,337.0,0.0
+2024,Las Vegas,Hybrid,COL,Williams,20.0,14.0,14.0,Finished,342.0,6.0
+2024,Las Vegas,Hybrid,STR,Aston Martin,18.0,20.0,15.0,Finished,340.0,3.0
+2024,Las Vegas,Hybrid,LAW,RB,14.0,15.0,16.0,Finished,333.0,-2.0
+2024,Las Vegas,Hybrid,OCO,Alpine,11.0,11.0,17.0,Lapped,339.0,
+2024,Las Vegas,Hybrid,BOT,Kick Sauber,19.0,19.0,18.0,Lapped,333.0,
+2024,Las Vegas,Hybrid,ALB,Williams,17.0,18.0,19.0,Retired,335.0,
+2024,Las Vegas,Hybrid,GAS,Alpine,3.0,3.0,20.0,Retired,339.0,
+2024,Qatar,Permanent,VER,Red Bull Racing,2.0,1.0,1.0,Finished,303.0,1.0
+2024,Qatar,Permanent,LEC,Ferrari,5.0,5.0,2.0,Finished,302.0,3.0
+2024,Qatar,Permanent,PIA,McLaren,4.0,4.0,3.0,Finished,306.0,1.0
+2024,Qatar,Permanent,RUS,Mercedes,1.0,2.0,4.0,Finished,310.0,-3.0
+2024,Qatar,Permanent,GAS,Alpine,11.0,11.0,5.0,Finished,304.0,6.0
+2024,Qatar,Permanent,SAI,Ferrari,7.0,7.0,6.0,Finished,322.0,1.0
+2024,Qatar,Permanent,ALO,Aston Martin,8.0,8.0,7.0,Finished,307.0,1.0
+2024,Qatar,Permanent,ZHO,Kick Sauber,12.0,12.0,8.0,Finished,303.0,4.0
+2024,Qatar,Permanent,MAG,Haas F1 Team,10.0,10.0,9.0,Finished,306.0,1.0
+2024,Qatar,Permanent,NOR,McLaren,3.0,3.0,10.0,Finished,305.0,-7.0
+2024,Qatar,Permanent,BOT,Kick Sauber,13.0,13.0,11.0,Finished,316.0,2.0
+2024,Qatar,Permanent,HAM,Mercedes,6.0,6.0,12.0,Finished,308.0,-6.0
+2024,Qatar,Permanent,TSU,RB,14.0,14.0,13.0,Finished,329.0,1.0
+2024,Qatar,Permanent,LAW,RB,17.0,17.0,14.0,Finished,328.0,3.0
+2024,Qatar,Permanent,ALB,Williams,16.0,16.0,15.0,Lapped,302.0,
+2024,Qatar,Permanent,HUL,Haas F1 Team,18.0,18.0,16.0,Retired,305.0,
+2024,Qatar,Permanent,PER,Red Bull Racing,9.0,9.0,17.0,Retired,305.0,
+2024,Qatar,Permanent,STR,Aston Martin,15.0,15.0,18.0,Retired,,
+2024,Qatar,Permanent,COL,Williams,19.0,19.0,19.0,Retired,,
+2024,Qatar,Permanent,OCO,Alpine,20.0,20.0,20.0,Retired,,
+2024,Abu Dhabi,Permanent,NOR,McLaren,1.0,1.0,1.0,Finished,316.0,0.0
+2024,Abu Dhabi,Permanent,SAI,Ferrari,3.0,3.0,2.0,Finished,316.0,1.0
+2024,Abu Dhabi,Permanent,LEC,Ferrari,19.0,14.0,3.0,Finished,314.0,16.0
+2024,Abu Dhabi,Permanent,HAM,Mercedes,16.0,18.0,4.0,Finished,315.0,12.0
+2024,Abu Dhabi,Permanent,RUS,Mercedes,6.0,7.0,5.0,Finished,314.0,1.0
+2024,Abu Dhabi,Permanent,VER,Red Bull Racing,4.0,5.0,6.0,Finished,316.0,-2.0
+2024,Abu Dhabi,Permanent,GAS,Alpine,5.0,6.0,7.0,Finished,306.0,-2.0
+2024,Abu Dhabi,Permanent,HUL,Haas F1 Team,7.0,4.0,8.0,Finished,329.0,-1.0
+2024,Abu Dhabi,Permanent,ALO,Aston Martin,8.0,8.0,9.0,Finished,329.0,-1.0
+2024,Abu Dhabi,Permanent,PIA,McLaren,2.0,2.0,10.0,Finished,311.0,-8.0
+2024,Abu Dhabi,Permanent,ALB,Williams,18.0,16.0,11.0,Lapped,314.0,
+2024,Abu Dhabi,Permanent,TSU,RB,11.0,11.0,12.0,Lapped,310.0,
+2024,Abu Dhabi,Permanent,ZHO,Kick Sauber,15.0,17.0,13.0,Lapped,313.0,
+2024,Abu Dhabi,Permanent,STR,Aston Martin,13.0,13.0,14.0,Lapped,310.0,
+2024,Abu Dhabi,Permanent,DOO,Alpine,17.0,20.0,15.0,Lapped,311.0,
+2024,Abu Dhabi,Permanent,MAG,Haas F1 Team,14.0,15.0,16.0,Lapped,317.0,
+2024,Abu Dhabi,Permanent,LAW,RB,12.0,12.0,17.0,Finished,309.0,-5.0
+2024,Abu Dhabi,Permanent,BOT,Kick Sauber,9.0,9.0,18.0,Retired,308.0,
+2024,Abu Dhabi,Permanent,COL,Williams,20.0,19.0,19.0,Retired,313.0,
+2024,Abu Dhabi,Permanent,PER,Red Bull Racing,10.0,10.0,20.0,Retired,,
