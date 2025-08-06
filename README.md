@@ -15,10 +15,10 @@ This project analyzes Formula 1 race data from 2022 to 2024 using the [FastF1](h
 ---
 
 ## 📁 Project Structure
-
+```
 ├── scripts/                                                                                                                                                                                    │ └── data_collection.py # Code to fetch & save data using FastF1                                                                                                                               │                                                                                                                                                                                               ├── notebooks/                                                                                                                                                                                  |└── f1_data_analysis.ipynb # Visualizations, scoring, and insights                                                                                                                             │                                                                                                                                                                                               ├── data/                                                                                                                                                                                       │ └── f1_2022_2024_team_driver_results.csv
 
-
+```
 ## Future Improvements
 - Add regression model to predict Race Position based on qualifying, track type, and car data
 - Deploy a lightweight dashboard (e.g., Streamlit)
